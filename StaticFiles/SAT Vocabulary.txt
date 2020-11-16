@@ -1,0 +1,4186 @@
+
+<!doctype html><!-- start coded_template: id:2972649277 path:generated_layouts/2972649267.html --><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-us" > <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en-us" >        <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="en-us" >               <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en-us"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="Hannah Muniz">
+    <meta name="description" content="Not sure where to start studying SAT vocabulary? Check out our list of the top SAT words to learn the SAT vocab words you're most likely to see on the test.">
+    <meta name="generator" content="HubSpot">
+    <title>262 SAT Vocab Words You Must Know</title>
+    <link rel="shortcut icon" href="https://blog.prepscholar.com/hs-fs/hub/360031/file-698399913-png/images/favicon.png">
+    
+
+    <script src="/hs/hsstatic/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+    <meta property="og:description" content="Not sure where to start studying SAT vocabulary? Check out our list of the top SAT words to learn the SAT vocab words you're most likely to see on the test.">
+    <meta property="og:title" content="262 SAT Vocab Words You Must Know">
+    <meta name="twitter:description" content="Not sure where to start studying SAT vocabulary? Check out our list of the top SAT words to learn the SAT vocab words you're most likely to see on the test.">
+    <meta name="twitter:title" content="262 SAT Vocab Words You Must Know">
+
+    
+
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="/hs/hsstatic/BlogSocialSharingSupport/static-1.4/bundles/project.css">
+<link rel="stylesheet" href="/hs/hsstatic/AsyncSupport/static-1.70/sass/comments_listing_asset.css">
+    
+
+    
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- start universal analytics w enhanced link attribution -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-44783031-1', 'prepscholar.com');
+    ga('require', 'linkid', 'linkid.js');
+    ga('send', 'pageview');
+  </script>
+  <!-- end universal analytics -->
+
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script src="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/4183895106/1569838655958/Coded_files/Custom/page/PrepScholar-theme/Jquery.cookie.js"></script>
+
+<script src="//load.sumome.com/" data-sumo-site-id="bf96ac506f28bdc16b93c55ca6b11dc65e0f058bfb2986cfa3c2be0720892cea" async></script>
+
+<meta name="msvalidate.01" content="0B13AC95BE3CDE8D81B75ADC7AD7326A">
+<meta name="baidu-site-verification" content="YDxakrjXfv">
+<meta property="og:image" content="https://blog.prepscholar.com/hubfs/body_magnifying_glass_book.jpg#keepProtocol">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="423">
+<meta property="og:image:alt" content="body_magnifying_glass_book.jpg">
+<meta name="twitter:image" content="https://blog.prepscholar.com/hubfs/body_magnifying_glass_book.jpg#keepProtocol">
+<meta name="twitter:image:alt" content="body_magnifying_glass_book.jpg">
+
+<meta property="og:url" content="https://blog.prepscholar.com/sat-vocabulary-words">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="canonical" href="https://blog.prepscholar.com/sat-vocabulary-words">
+<script type="text/javascript">
+var freeTipsOptions = {
+  portalId: '360031',
+  formId: '2167ba30-e68e-4777-b88d-8bf3c84579af',
+  formInstanceId: '1',
+  submitButtonClass: 'btn-red-light btn',
+  target: '#hubspot-container1',
+  redirectUrl: 'http://ww2.prepscholar.com/blog-subscribe-thank-you',
+  css: '.hubspot-container label {display:none;} .post-bottom .hs-form.stacked .field div.input {padding-top: 55px; padding-left: 300px;} .post-bottom .hs-input {width: 220px} .post-bottom .btn-primary, .hs-button.primary {margin-top:0px; padding-left:350px} .post-bottom .hs-form-field {margin-bottom:5px}'
+};
+</script>
+<script src="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/6754000535/1588032274619/Custom/page/PrepScholar-theme/style_as_classes.js"></script>
+<script src="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/7079644445/1587310520777/Custom/page/PrepScholar-theme/michael_replacement.js"></script>
+<script src="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/4446177554/1569838656892/Coded_files/Custom/page/PrepScholar-theme/Cta-swapper.js"></script>
+<script src="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/4331295040/1569838656273/Coded_files/Custom/page/PrepScholar-theme/Abtesting_remote.js"></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=UnifrakturMaguntia">
+<!--<script src="//use.edgefonts.net/cutive.js"></script>-->
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Cutive" rel="stylesheet" type="text/css">
+<meta property="og:type" content="article">
+<link rel="alternate" type="application/rss+xml" href="https://blog.prepscholar.com/rss.xml">
+<meta name="twitter:domain" content="blog.prepscholar.com">
+<meta name="twitter:site" content="@PrepScholar">
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+    lang: en_US
+</script>
+
+<meta http-equiv="content-language" content="en-us">
+<link rel="stylesheet" href="//cdn2.hubspot.net/hub/-1/hub_generated/template_assets/1495141902003/hubspot_default/shared/responsive/layout.min.css">
+
+<link rel="stylesheet" href="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/2179300724/1569838654398/Coded_files/Custom/page/PrepScholar-theme/Prepscholar-blogextras.css">
+<link rel="stylesheet" href="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/3000580275/1569838653417/Coded_files/Custom/page/web_page_basic/Tim-redesign-all.min.css">
+<link rel="stylesheet" href="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/2987984913/1569838651594/Coded_files/Custom/page/web_page_basic/Andrei-additions.min.css">
+
+
+
+    <script>
+//puts the comments form above the comments
+$(window).load(function() {
+    if( $('body').hasClass('hs-blog-post') == true )  {
+        var commentForm = $('#comment-form');
+        $('#comment-form').remove();
+        $('#comments-listing').before(commentForm);
+        $('#comment-form').css('margin-bottom', '5em');
+    }
+});
+</script> 
+
+<style>
+.t402-prompt-iframe-container iframe{
+display: block;
+}
+
+.right-search{
+    max-width: 350px;
+}
+input[type="text"], input[type="tel"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], textarea{
+    width: 74%;}
+}
+</style>
+    
+
+</head>
+<body class="blog-template   hs-content-id-5494001362 hs-blog-post hs-content-path-sat-vocabulary-words hs-content-name-262-sat-vocab-words-you-must-know hs-blog-name-sat---act-blog hs-blog-id-469944059" style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div id="wrapper" class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<!-- start coded_template: id:2986759488 path:generated_global_groups/2986759473.html -->
+<div class="" data-global-widget-path="generated_global_groups/2986759473.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14345643591897470" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><header id="header">
+<div class="header-top">
+<strong class="logo"><a href="https://prepscholar.com/sat/s/"><img src="https://prepscholar.com/staticfiles/redesign/images/logo.png" alt="PrepScholar"></a></strong>
+<div class="header-contact">
+<dl class="call">
+<dt>Call Direct:</dt>
+<dd><a href="tel:18668115546" class="tel-link">1 (866) 811-5546</a></dd>
+</dl>
+<a href="https://www.prepscholar.com/sat/s/email_reminder" class="envelope-icon" alt="Email Yourself a PDF of the site for later reading"></a>
+<a href="https://prepscholar.com/sat/a/signin" class="sign-in">Sign In</a>
+<a href="https://prepscholar.com/sat/s/signup" class="btn btn-red">Start Free Trial</a>
+<!-- <a href="https://prepscholar.com/sat/s/signup" class="btn-brown">My Prep →</a>-->
+</div>
+</div> 
+</header>
+<div id="lessonPopupGlass" class="block-sampleLesson-lessonPopup-glass" style="display:none">
+<div id="lessonPopupContent" class="block-sampleLesson-lessonPopup" style="width:439px">
+<div id="Adfadfa" class="theme-offwhite-warm pad bdrh bdrt rel">
+<!--Core Reading Lesson-->
+<h2 class="mgn0v" style="text-decoration: none;">Choose Your Test</h2>
+</div>
+<div class="block-sampleLesson-lessonBody padh padb bdr theme-white">
+<br>
+<a id="satRedirect" style="text-decoration: none;;text-align:center; width:200px" class="button button-block-pad button-sat h3-text">SAT Prep</a>
+<a id="actRedirect" style="text-decoration: none;;text-align:center; width:200px" class="button button-block-pad button-act h3-text">ACT Prep</a>
+</div>
+</div>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div><!-- end coded_template: id:2986759488 path:generated_global_groups/2986759473.html -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<main role="main"><section id="twocolumns">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_jinja hs-blog-header" style="" data-widget-type="raw_jinja" data-x="0" data-w="12">
+<h1>SAT / ACT Prep Online Guides and Tips</h1></div><!--end widget-span -->
+
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span8 widget-span widget-type-cell blog-content-column" style="" data-widget-type="cell" data-x="0" data-w="8">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-blog_content " style="" data-widget-type="blog_content" data-x="0" data-w="12">
+<div class="blog-section">
+    <div class="blog-post-wrapper cell-wrapper">
+                <div class="section post-header">
+            <h2>
+                <a href="https://blog.prepscholar.com/sat-vocabulary-words" id="hubspot-name" class="link hubspot-editable" data-hubspot-form-id="name" data-hubspot-name="Blog Title"><span id="hs_cos_wrapper_name" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="text">262 SAT Vocab Words You Must Know</span></a> 
+            </h2>
+            <p id="hubspot-author_data" class="hubspot-editable" data-hubspot-form-id="author_data" data-hubspot-name="Blog Author">
+                                
+                                </p><div>
+                                     <div style="float:left" class="hs-author-avatar"> <img width="45" src="https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=45&amp;name=author_hannah.png" srcset="https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=23&amp;name=author_hannah.png 23w, https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=45&amp;name=author_hannah.png 45w, https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=68&amp;name=author_hannah.png 68w, https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=90&amp;name=author_hannah.png 90w, https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=113&amp;name=author_hannah.png 113w, https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=135&amp;name=author_hannah.png 135w" sizes="(max-width: 45px) 100vw, 45px"> </div> 
+                                    <div style="padding-left:60px;">
+                                        <div><span class="hs-author-label">Posted by</span> <a class="author-link" href="https://blog.prepscholar.com/author/hannah-muniz">Hannah Muniz</a> | Oct 6, 2019 12:00:00 PM</div>
+                                        
+                                        <p id="hubspot-topic_data"> 
+                                             
+                                                <a class="topic-link" href="https://blog.prepscholar.com/topic/sat-writing">SAT Writing</a>,
+                                             
+                                                <a class="topic-link" href="https://blog.prepscholar.com/topic/sat-reading">SAT Reading</a>
+                                            
+                                        </p>
+                                        
+                                    </div>
+                                    
+                                    <div class="clearfix">&nbsp;</div>
+                                </div>
+                                
+            <p></p>
+        </div>
+        <div class="section post-body">
+            <span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"><p><img src="https://blog.prepscholar.com/hs-fs/hubfs/body_magnifying_glass_book.jpg?width=501&amp;name=body_magnifying_glass_book.jpg" alt="body_magnifying_glass_book.jpg" style="width: 501px; display: block; margin-left: auto; margin-right: auto;" width="501" srcset="https://blog.prepscholar.com/hs-fs/hubfs/body_magnifying_glass_book.jpg?width=251&amp;name=body_magnifying_glass_book.jpg 251w, https://blog.prepscholar.com/hs-fs/hubfs/body_magnifying_glass_book.jpg?width=501&amp;name=body_magnifying_glass_book.jpg 501w, https://blog.prepscholar.com/hs-fs/hubfs/body_magnifying_glass_book.jpg?width=752&amp;name=body_magnifying_glass_book.jpg 752w, https://blog.prepscholar.com/hs-fs/hubfs/body_magnifying_glass_book.jpg?width=1002&amp;name=body_magnifying_glass_book.jpg 1002w, https://blog.prepscholar.com/hs-fs/hubfs/body_magnifying_glass_book.jpg?width=1253&amp;name=body_magnifying_glass_book.jpg 1253w, https://blog.prepscholar.com/hs-fs/hubfs/body_magnifying_glass_book.jpg?width=1503&amp;name=body_magnifying_glass_book.jpg 1503w" sizes="(max-width: 501px) 100vw, 501px"></p>
+<p>A lot of students immediately think of vocabulary when they hear the word SAT. But are SAT vocab words really that important for doing well on the test? Kind of. <strong>If you’re aiming for a high score, you’ll definitely want to spend some time learning key SAT words.</strong></p>
+<p>In this guide, we give you a comprehensive list of 262 of the most common SAT vocabulary words. We also explain how vocab is tested on the SAT, what types of questions you’ll see, and how to get the most out of your vocab prep.</p>
+<p><!--more--></p>
+<p>&nbsp;</p>
+<h2>How Is Vocabulary Tested on the SAT?</h2>
+<p>The SAT underwent <a href="/complete-guide-to-the-new-sat-in-2016" target="_blank" rel="noopener">a significant redesign in 2016</a>, and since then vocabulary has become a <a href="/how-important-is-vocabulary-for-the-new-sat" target="_blank" rel="noopener">far less important</a> part of the test. This is because there are fewer vocabulary questions on the current SAT than there were on the old SAT.&nbsp;</p>
+<p><span style="background-color: transparent;">That said, </span>it'll still benefit you to study vocab,<span style="background-color: transparent;"> especially if you're aiming for a high or </span><a href="/how-to-get-a-perfect-sat-score-by-a-2400-sat-scorer" target="_blank" style="background-color: transparent;" rel="noopener">perfect score</a><span style="background-color: transparent;">.</span></p>
+<p>All SAT words are about <strong>medium difficulty&nbsp;</strong>and are&nbsp;<strong>tested in the context of reading passages,</strong> so you’ll get not just a sentence but an entire paragraph or passage to work with.</p>
+<p>Context clues make memorizing SAT vocab words less important on the current SAT than it was on the old SAT, back when you had to memorize dozens of obscure words and answer questions that dealt with isolated sentences (<a href="/new-sat-in-2016-reading-section-changes-strategies" target="_blank" rel="noopener">these were called Sentence Completion problems</a>).&nbsp;<span style="background-color: transparent;">This made vocab questions particularly hard since you were given minimal context with which to solve them.</span></p>
+<p>&nbsp;</p>
+<h2>What Do SAT Vocabulary Questions Look Like?</h2>
+<p>Purely vocabulary-based questions don’t make up a large part of the SAT. <span style="background-color: transparent;">Based on our analysis of </span><a href="/complete-official-sat-practice-tests-free-links" target="_blank" style="background-color: transparent;" rel="noopener">official SAT practice tests</a><span style="background-color: transparent;">,</span><strong style="background-color: transparent;">&nbsp;13% of the Reading section (or about seven questions) ask you to match a word with its correct meaning.&nbsp;</strong><span>We call these&nbsp;</span><strong>Words in Context&nbsp;</strong>questions.&nbsp;<span style="background-color: transparent;"></span></p>
+<p><span style="background-color: transparent;">For these questions, you'll need to know alternative meanings of relatively common words, such as “directly” and “hold.” While you might</span><span style="background-color: transparent;">&nbsp;come across slightly more difficult SAT words, you generally shouldn’t see any as hard as those on the old SAT.</span></p>
+<p>Here's an example of a Reading vocabulary question (with the relevant part of the passage shown):</p>
+<div class="example-blue">
+<p><img src="https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample.png?width=333&amp;height=267&amp;name=body_sat_vocab_question_sample.png" alt="body_sat_vocab_question_sample.png" style="display: block; margin-left: auto; margin-right: auto;" width="333" height="267" srcset="https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample.png?width=167&amp;height=134&amp;name=body_sat_vocab_question_sample.png 167w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample.png?width=333&amp;height=267&amp;name=body_sat_vocab_question_sample.png 333w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample.png?width=500&amp;height=401&amp;name=body_sat_vocab_question_sample.png 500w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample.png?width=666&amp;height=534&amp;name=body_sat_vocab_question_sample.png 666w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample.png?width=833&amp;height=668&amp;name=body_sat_vocab_question_sample.png 833w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample.png?width=999&amp;height=801&amp;name=body_sat_vocab_question_sample.png 999w" sizes="(max-width: 333px) 100vw, 333px"></p>
+<p style="text-align: center;"><span style="font-size: 10px;"><em>Source: <a href="https://cdn2.hubspot.net/hubfs/360031/PrepScholar-sat-practice-test-1.pdf?t=1513028462857" target="_blank" rel="noopener">Official SAT Practice Test #1</a></em></span></p>
+</div>
+<p>In addition to Words in Context questions, you’ll get&nbsp;<strong>questions that require you to pick a single word or phrase in order to paraphrase or clarify part of a passage.&nbsp;</strong><span style="background-color: transparent;">With these questions, you must understand what<em> all</em>&nbsp;the SAT vocab words mean so that you can choose the right answer.</span></p>
+<p>Here are some examples of these questions:<span style="background-color: transparent;">&nbsp;</span></p>
+<div class="example-blue">
+<p><img src="https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_2.png?width=342&amp;height=160&amp;name=body_sat_vocab_question_sample_2.png" alt="body_sat_vocab_question_sample_2.png" style="display: block; margin-left: auto; margin-right: auto;" width="342" height="160" srcset="https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_2.png?width=171&amp;height=80&amp;name=body_sat_vocab_question_sample_2.png 171w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_2.png?width=342&amp;height=160&amp;name=body_sat_vocab_question_sample_2.png 342w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_2.png?width=513&amp;height=240&amp;name=body_sat_vocab_question_sample_2.png 513w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_2.png?width=684&amp;height=320&amp;name=body_sat_vocab_question_sample_2.png 684w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_2.png?width=855&amp;height=400&amp;name=body_sat_vocab_question_sample_2.png 855w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_2.png?width=1026&amp;height=480&amp;name=body_sat_vocab_question_sample_2.png 1026w" sizes="(max-width: 342px) 100vw, 342px"></p>
+<p style="text-align: center;"><em>A sample SAT question with single vocab words as answer choices. <span style="font-size: 10px;">(Source: <a href="https://cdn2.hubspot.net/hubfs/360031/PrepScholar-sat-practice-test-1.pdf?t=1513028462857" target="_blank" rel="noopener">Official SAT Practice Test #1</a>)</span></em><span style="background-color: transparent;">&nbsp;</span></p>
+</div>
+<div class="example-blue">
+<p style="text-align: center;"><img src="https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_3.png?width=340&amp;height=160&amp;name=body_sat_vocab_question_sample_3.png" alt="body_sat_vocab_question_sample_3.png" width="340" height="160" srcset="https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_3.png?width=170&amp;height=80&amp;name=body_sat_vocab_question_sample_3.png 170w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_3.png?width=340&amp;height=160&amp;name=body_sat_vocab_question_sample_3.png 340w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_3.png?width=510&amp;height=240&amp;name=body_sat_vocab_question_sample_3.png 510w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_3.png?width=680&amp;height=320&amp;name=body_sat_vocab_question_sample_3.png 680w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_3.png?width=850&amp;height=400&amp;name=body_sat_vocab_question_sample_3.png 850w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_sample_3.png?width=1020&amp;height=480&amp;name=body_sat_vocab_question_sample_3.png 1020w" sizes="(max-width: 340px) 100vw, 340px"></p>
+<p style="text-align: center;"><em>A sample SAT question with phrases as answer choices. <span style="font-size: 10px;">(Source: <a href="https://cdn2.hubspot.net/hubfs/360031/PrepScholar-sat-practice-test-2.pdf?t=1513028462857" target="_blank" rel="noopener">Official SAT Practice Test #2</a>)</span></em><span style="background-color: transparent;">&nbsp;</span></p>
+</div>
+<p>In these examples, <strong>you'll need to know the definitions of a variety of SAT vocabulary words, </strong>such as “substantiated,” “freewheeling,” and “scandalous,” so that you can select the right answer choice.</p>
+<p>&nbsp;</p>
+<h2>Are There Any Vocab Questions on SAT Writing?</h2>
+<p>Aside from the Reading section, are there any SAT vocab questions on the Writing and Language section? The quick answer is <strong>yes—you <em>will</em> see vocab questions on Writing and Language.</strong></p>
+<p>While most questions in this section focus on <a href="/the-complete-guide-to-sat-grammar-rules" target="_blank" rel="noopener">grammar</a>, transitions, and tense, you'll also get some vocab questions that ask you to replace SAT words in a passage; we call these&nbsp;<strong>Precision</strong> questions. <span>In total, you’ll get three Precision questions, making up&nbsp;</span><strong>about 7% of the SAT Writing section.</strong></p>
+<p>Here's an example of a Precision question (with the relevant part of the passage shown):</p>
+<div class="example-blue">
+<p><img src="https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_writing.png?width=333&amp;height=208&amp;name=body_sat_vocab_question_writing.png" alt="body_sat_vocab_question_writing.png" style="display: block; margin-left: auto; margin-right: auto;" width="333" height="208" srcset="https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_writing.png?width=167&amp;height=104&amp;name=body_sat_vocab_question_writing.png 167w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_writing.png?width=333&amp;height=208&amp;name=body_sat_vocab_question_writing.png 333w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_writing.png?width=500&amp;height=312&amp;name=body_sat_vocab_question_writing.png 500w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_writing.png?width=666&amp;height=416&amp;name=body_sat_vocab_question_writing.png 666w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_writing.png?width=833&amp;height=520&amp;name=body_sat_vocab_question_writing.png 833w, https://blog.prepscholar.com/hs-fs/hubfs/body_sat_vocab_question_writing.png?width=999&amp;height=624&amp;name=body_sat_vocab_question_writing.png 999w" sizes="(max-width: 333px) 100vw, 333px"></p>
+<p style="text-align: center;"><span style="font-size: 10px;"><em>Source: <a href="https://cdn2.hubspot.net/hubfs/360031/PrepScholar-sat-practice-test-2.pdf?t=1513028462857" target="_blank" rel="noopener">Official SAT Practice Test #2</a></em></span><span style="background-color: transparent;">&nbsp;</span></p>
+</div>
+<p>&nbsp;</p>
+<p><img src="https://blog.prepscholar.com/hs-fs/hubfs/body_alphabet_blank_card.jpg?width=500&amp;name=body_alphabet_blank_card.jpg" alt="body_alphabet_blank_card.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 500px;" width="500" srcset="https://blog.prepscholar.com/hs-fs/hubfs/body_alphabet_blank_card.jpg?width=250&amp;name=body_alphabet_blank_card.jpg 250w, https://blog.prepscholar.com/hs-fs/hubfs/body_alphabet_blank_card.jpg?width=500&amp;name=body_alphabet_blank_card.jpg 500w, https://blog.prepscholar.com/hs-fs/hubfs/body_alphabet_blank_card.jpg?width=750&amp;name=body_alphabet_blank_card.jpg 750w, https://blog.prepscholar.com/hs-fs/hubfs/body_alphabet_blank_card.jpg?width=1000&amp;name=body_alphabet_blank_card.jpg 1000w, https://blog.prepscholar.com/hs-fs/hubfs/body_alphabet_blank_card.jpg?width=1250&amp;name=body_alphabet_blank_card.jpg 1250w, https://blog.prepscholar.com/hs-fs/hubfs/body_alphabet_blank_card.jpg?width=1500&amp;name=body_alphabet_blank_card.jpg 1500w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p>&nbsp;</p>
+<h2><span style="background-color: transparent;">262 SAT Vocab Words You’re Bound to See on Test Day</span></h2>
+<p>Now that you know what kinds of vocab questions are on the SAT, let's go over <strong>the 262 words and definitions we suggest memorizing</strong> if you want to get high scores on SAT Reading and Writing.</p>
+<p>To compile this list, we dug through all <a href="/complete-official-sat-practice-tests-free-links" target="_blank" rel="noopener">official SAT practice tests</a>, looking at&nbsp;both the Reading and Writing sections (and not just the questions but the answer choices and passages, too).&nbsp;<span style="background-color: transparent;">We also looked at SAT words from other online vocab lists.</span></p>
+<p>Though you don’t need to memorize <em>all</em> the words below, familiarizing yourself with most of them should help you better identify the tones of passages and make you more efficient at interpreting and answering questions correctly on SAT Reading and Writing.</p>
+<p>Below, we give you each word, its part of speech, its definition, and an example sentence (or more if the word has multiple definitions/parts of speech). All words are listed in alphabetical order.</p>
+<p>&nbsp;</p>
+<table style="border-collapse: collapse;" cellpadding="5px" border="1px">
+<tbody>
+<tr>
+<td>
+<div style="text-align: left;"><strong>Word</strong></div>
+</td>
+<td>
+<div><strong>Definition</strong></div>
+</td>
+<td>
+<div><strong>Example Sentence</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Abate</div>
+</td>
+<td>
+<div><em>v.</em> to become less active, less intense, or less in amount</div>
+</td>
+<td style="text-align: left;">
+<div>As I began my speech, my feelings of nervousness quickly <strong>abated.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Abstract</div>
+</td>
+<td>
+<div><em>adj.</em> existing purely in the mind; not representing actual reality</div>
+</td>
+<td style="text-align: left;">
+<div>Julie had trouble understanding the appeal of the <strong>abstract</strong> painting.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Abysmal</div>
+</td>
+<td>
+<div><em>adj.</em> extremely bad</div>
+</td>
+<td style="text-align: left;">
+<div>I got an <strong>abysmal</strong> grade on my research paper!</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Accordingly</div>
+</td>
+<td>
+<div><em>adv.</em> in accordance with</div>
+</td>
+<td style="text-align: left;">
+<div>All students must behave <strong>accordingly.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Acquisition</div>
+</td>
+<td>
+<div><em>n.</em> the act of gaining a skill or possession of something</div>
+</td>
+<td style="text-align: left;">
+<div>Language <strong>acquisition</strong> is easier for kids than it is for adults.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Adapt</div>
+</td>
+<td>
+<div><em>v.</em> to make suit a new purpose</div>
+<div><em>v.</em> to accommodate oneself to a new condition, setting, or situation</div>
+</td>
+<td style="text-align: left;">
+<div>The US has <strong>adapted</strong> many foreign foods to better suit the tastes of Americans.</div>
+<div>Dogs are known for their ability to quickly <strong>adapt</strong> to their environments.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Adept</div>
+</td>
+<td>
+<div><em>adj.</em> having knowledge or skill (usu. in a particular area)</div>
+</td>
+<td style="text-align: left;">
+<div>Beth loves playing the piano, but she’s especially <strong>adept</strong> at the violin.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Adequate</div>
+</td>
+<td>
+<div><em>adj.</em> having sufficient qualifications to meet a specific task or purpose</div>
+</td>
+<td style="text-align: left;">
+<div>Though his resume was <strong>adequate,</strong> the company doubted whether he’d be a good fit.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Advent</div>
+</td>
+<td>
+<div><em>n.</em> the arrival or creation of something (usu. historic)</div>
+</td>
+<td style="text-align: left;">
+<div>The world has never been the same since the <strong>advent</strong> of the light bulb.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Adversarial</div>
+</td>
+<td>
+<div><em>adj.</em> relating to hostile opposition</div>
+</td>
+<td style="text-align: left;">
+<div>An <strong>adversarial</strong> attitude will make you many enemies in life.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Advocate</div>
+</td>
+<td>
+<div><em>n.<span><span>&nbsp;</span></span></em>someone who promotes or defends something</div>
+<div><em>v.</em> to defend or promote something (usu. a belief, theory, opinion, etc.)</div>
+</td>
+<td style="text-align: left;">
+<div><span>I am an&nbsp;</span><strong>advocate</strong><span><span>&nbsp;</span>for free higher education.</span></div>
+<div>Environmental protesters often<strong> advocate</strong> for cleaner energy practices.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Aesthetic</div>
+</td>
+<td>
+<div><em>adj.</em> relating to beauty or refined taste</div>
+</td>
+<td style="text-align: left;">
+<div>The <strong>aesthetic</strong> decorations at the wedding reception made you feel as if you were a character in a fairy tale.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Afford</div>
+</td>
+<td>
+<div><em>v.</em> to be able to buy</div>
+<div><em>v.</em> to be able to spare</div>
+</td>
+<td style="text-align: left;">
+<div>He’s saving money so he can <strong>afford</strong> to buy a new car.</div>
+<div>I can’t <strong>afford</strong> to lose any more pencils!</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Agitate</div>
+</td>
+<td>
+<div><em>v.</em> to promote something (usu. a cause)</div>
+</td>
+<td style="text-align: left;">
+<div>They’re <strong>agitating</strong> for better health care.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Allow</div>
+</td>
+<td>
+<div><em>v.</em> to permit or consent to</div>
+</td>
+<td style="text-align: left;">
+<div>US law <strong>allows</strong> citizens to speak freely.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Allude</div>
+</td>
+<td>
+<div><em>v.</em> to make a secretive mention of something</div>
+</td>
+<td style="text-align: left;">
+<div>She <strong>alluded</strong> to the problem at hand but didn’t say anything more about it.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Altercation</div>
+</td>
+<td>
+<div><em>n.</em> a noisy argument or confrontation</div>
+</td>
+<td style="text-align: left;">
+<div>Greg got into an <strong>altercation</strong> with a stranger at the bar.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Ambiguous</div>
+</td>
+<td>
+<div><em>adj.</em> unclear or vague in meaning</div>
+</td>
+<td style="text-align: left;">
+<div>Her <strong>ambiguous</strong> statement made me question whether she could be trusted.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Ambitious</div>
+</td>
+<td>
+<div><em>adj.</em> having a powerful desire for success or achievement</div>
+</td>
+<td style="text-align: left;">
+<div>Penny is so <strong>ambitious,</strong> she wants to be president someday.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Ambivalence</div>
+</td>
+<td>
+<div><em>n.</em> the state of being uncertain or stuck between two or more options</div>
+</td>
+<td style="text-align: left;">
+<div>His <strong>ambivalence</strong> prevented him from immediately signing the contract.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Analogous</div>
+</td>
+<td>
+<div><em>adj.</em> similar but not identical</div>
+</td>
+<td style="text-align: left;">
+<div>Green onions are considered <strong>analogous</strong> to spring onions.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Annihilate</div>
+</td>
+<td>
+<div><em>v.</em> to destroy or cause devastating destruction</div>
+</td>
+<td style="text-align: left;">
+<div>The dictator sent orders to <strong>annihilate</strong> the group of rebels.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Anomaly</div>
+</td>
+<td>
+<div><em>n.</em> something different from the norm</div>
+</td>
+<td style="text-align: left;">
+<div>This result is an <strong>anomaly</strong> and very rarely happens.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Anticipate</div>
+</td>
+<td>
+<div><em>v.</em> assume to be likely to happen</div>
+</td>
+<td style="text-align: left;">
+<div>The party was just as fun as I had <strong>anticipated</strong> it would be.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Antipathy</div>
+</td>
+<td>
+<div><em>n.</em> a strong feeling of dislike</div>
+</td>
+<td style="text-align: left;">
+<div>Her<strong> antipathy</strong> toward the professor was obvious: she rolled her eyes whenever he entered the classroom.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Apex</div>
+</td>
+<td>
+<div><em>n.</em> the highest point of something</div>
+</td>
+<td style="text-align: left;">
+<div>The spring play was the <strong>apex</strong> of our school year.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Apprehension</div>
+</td>
+<td>
+<div><em>n.</em> fearful expectation of something</div>
+</td>
+<td style="text-align: left;">
+<div>Her <strong>apprehension</strong> to leave her house resulted in her missing the train.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Articulate</div>
+</td>
+<td>
+<div><em>v.</em> to clearly express in words</div>
+</td>
+<td style="text-align: left;">
+<div>She <strong>articulated</strong> her opinion on the price of the house.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Artificial</div>
+</td>
+<td>
+<div><em>adj.</em> something made; not occurring naturally</div>
+</td>
+<td style="text-align: left;">
+<div>Many candies use<strong> artificial</strong> flavors to make them taste fruity.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Assertion</div>
+</td>
+<td>
+<div><em>n.</em> a strong declaration</div>
+</td>
+<td style="text-align: left;">
+<div>His <strong>assertion</strong> that sharks are mammals made everyone laugh.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Austere</div>
+</td>
+<td>
+<div><em>adj.</em> extremely plain</div>
+<div><em>adj.</em> stern and forbidding</div>
+<div><em>adj.</em> relating to self-denial</div>
+</td>
+<td style="text-align: left;">
+<div>He lived in a small, <strong>austere</strong> cabin in the middle of the woods.</div>
+<div>My boss had an <strong>austere</strong> expression on her face.</div>
+<div>An <strong>austere</strong> lifestyle, like that of monks, isn’t for everybody.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Authenticity</div>
+</td>
+<td>
+<div><em>n.</em> the quality of being real and true instead of fake and contrived</div>
+</td>
+<td style="text-align: left;">
+<div>The police officer doubted the <strong>authenticity</strong> of the suspect’s story.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Avenue</div>
+</td>
+<td>
+<div><em>n.</em> an intangible path or approach to something</div>
+</td>
+<td style="text-align: left;">
+<div>The company has decided to pursue other <strong>avenues.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Avid</div>
+</td>
+<td>
+<div><em>adj.</em> actively interested in or enthusiastic about something</div>
+</td>
+<td style="text-align: left;">
+<div>Gerald is an <strong>avid</strong> soccer fan.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Basic</div>
+</td>
+<td>
+<div><em>adj.</em> relating to the foundation or basis of something</div>
+</td>
+<td style="text-align: left;">
+<div>You have to start with <strong>basic</strong> Russian before you can move on to the advanced level.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Bear</div>
+</td>
+<td>
+<div><em>v.</em> to have as a characteristic</div>
+<div><em>v.</em> to have (a child)</div>
+<div><em>v.</em> to bring forth</div>
+<div><em>v.</em> to put up with</div>
+</td>
+<td style="text-align: left;">
+<div><span style="background-color: transparent;">She <strong>bears</strong> a strong resemblance to your mother.</span></div>
+<div>Judy will<strong> bear</strong> her first child later this year.</div>
+<div>My garden is going to <strong>bear</strong> pumpkins this year.</div>
+<div>I can’t <strong>bear</strong> her complaining any longer!</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Benevolent</div>
+</td>
+<td>
+<div><em>adj. </em>kind, generous</div>
+</td>
+<td style="text-align: left;">
+<div>Many cultures believe in<strong> benevolent</strong> spirits.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Bias</div>
+</td>
+<td>
+<div><em>n.</em> a preconception that prevents objectivity</div>
+</td>
+<td style="text-align: left;">
+<div>It’s important to avoid <strong>bias</strong> when investigating a crime.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Bittersweet</div>
+</td>
+<td>
+<div><em>adj.</em> tinged with a feeling of sadness</div>
+</td>
+<td style="text-align: left;">
+<div>The ending of the romance movie was <strong>bittersweet.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Bolster</div>
+</td>
+<td>
+<div><em>v.</em> to support, strengthen, or fortify</div>
+</td>
+<td style="text-align: left;">
+<div>If we work together, we should be able to lift and then<strong> bolster</strong> the couch.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Boost</div>
+</td>
+<td>
+<div><em>n.<span><span>&nbsp;</span></span></em>an increase or growth</div>
+<div><em>v.</em> to increase or make grow</div>
+</td>
+<td style="text-align: left;">
+<div><span>The&nbsp;</span><strong>boost</strong><span><span>&nbsp;</span>in profits was a welcome change.</span></div>
+<div>In order to <strong>boost</strong> profits, you need to cater to your customers.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Brawl</div>
+</td>
+<td>
+<div><em>n.</em> an intense, loud fight</div>
+<div><em>v.</em> to fight loudly and disruptively</div>
+</td>
+<td style="text-align: left;">
+<div>A <strong>brawl</strong> broke out at school today after one student accused another of cheating.</div>
+<div>The two students <strong>brawled</strong> for an hour.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Brevity</div>
+</td>
+<td>
+<div><em>n.</em> the quality of being brief or terse</div>
+</td>
+<td style="text-align: left;">
+<div>The <strong>brevity</strong> of their time together made it all the more romantic.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Candid</div>
+</td>
+<td>
+<div><em>adj. </em>direct, blunt</div>
+</td>
+<td style="text-align: left;">
+<div>Josh is<strong> candid</strong> about his desire to become an actor.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Candor</div>
+</td>
+<td>
+<div><em>n.</em> the trait of being honest and frank</div>
+</td>
+<td style="text-align: left;">
+<div>I admire her <strong>candor,</strong> especially when nobody else bothers to speak up.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Capitalize</div>
+</td>
+<td>
+<div><em>v.</em> to use to your advantage</div>
+</td>
+<td style="text-align: left;">
+<div>I’d like to<strong> capitalize</strong> on your math skills by having your work the cash register.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Capture</div>
+</td>
+<td>
+<div><em>v.</em> to trap or take possession of</div>
+<div><em>v.</em> to successfully represent or imitate</div>
+<div><em>v.</em> to captivate, mesmerize</div>
+<div><em>v.</em> to catch or seize</div>
+</td>
+<td style="text-align: left;">
+<div>The spy was <strong>captured</strong> by the enemy.</div>
+<div>Your painting beautifully <strong>captures</strong> the ephemerality of life.</div>
+<div>I was <strong>captured</strong> by her beauty.</div>
+<div>The cops <strong>captured</strong> the criminal three days after the incident.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Civic</div>
+</td>
+<td>
+<div><em>adj.</em> relating to the city or citizens</div>
+</td>
+<td style="text-align: left;">
+<div>Voting is a<strong> civic</strong> duty.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Clinical</div>
+</td>
+<td>
+<div><em>adj.</em> emotionally unattached (usu. used in medical or scientific setting)</div>
+</td>
+<td style="text-align: left;">
+<div>Her <strong>clinical</strong> approach to situations allows her to handle them more effectively.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Clout</div>
+</td>
+<td>
+<div><em>n.</em> special advantage or power</div>
+</td>
+<td style="text-align: left;">
+<div>Children of rich and famous people often believe they have a lot of <strong>clout.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Coarse</div>
+</td>
+<td>
+<div><em>adj.</em> indicating a rough texture</div>
+<div><em>adj.</em>&nbsp;lacking refinement or sophistication</div>
+</td>
+<td style="text-align: left;">
+<div>The horse’s mane was <strong>coarse,</strong> as if it had never been washed.</div>
+<div>The queen’s <strong>coarse</strong> way of speaking surprised the other members of royalty.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Coincide</div>
+</td>
+<td>
+<div><em>v.</em> to happen at the same time</div>
+</td>
+<td style="text-align: left;">
+<div>It wasn’t until after I booked my ticket that I realized the concert <strong>coincided</strong> with my finals.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Commission</div>
+</td>
+<td>
+<div><em>n.</em> the use of payment to request something (e.g., a service or product)</div>
+</td>
+<td style="text-align: left;">
+<div>This painting was <strong>commissioned</strong> by a rich merchant in 1589.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Comparable</div>
+</td>
+<td>
+<div><em>adj.</em> able to be compared</div>
+</td>
+<td style="text-align: left;">
+<div>This novel is <strong>comparable</strong> to <em>Huckleberry Finn.</em></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Competent</div>
+</td>
+<td>
+<div><em>adj.</em> sufficiently qualified</div>
+</td>
+<td style="text-align: left;">
+<div>We need to hire a <strong>competent</strong> web developer to create a good website for our company.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Complacent</div>
+</td>
+<td>
+<div><em>adj.</em> satisfied, with no desire to change or improve</div>
+</td>
+<td style="text-align: left;">
+<div>Though he had never won any awards or even been published, he was<strong> complacent</strong> with his life as a poet.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Complement</div>
+</td>
+<td>
+<div><em>v.</em> to make perfect or complete</div>
+</td>
+<td style="text-align: left;">
+<div>This wine perfectly <strong>complements</strong> this platter of gourmet cheese.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Concede</div>
+</td>
+<td>
+<div><em>v.</em> to be forced to agree or surrender</div>
+<div><em>v.</em> to admit to a transgression</div>
+</td>
+<td style="text-align: left;">
+<div>With no chance of winning the battle, the army at last <strong>conceded.</strong></div>
+<div>Dan <strong>conceded</strong> to pranking his sister.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Conceive</div>
+</td>
+<td>
+<div><em>v. </em>to imagine or come up with</div>
+</td>
+<td style="text-align: left;">
+<div>The plan to build the city was originally <strong>conceived</strong> in the early 1900s.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Condone</div>
+</td>
+<td>
+<div><em>v. t</em>o overlook, approve, or allow</div>
+</td>
+<td style="text-align: left;">
+<div>She couldn't <strong>condone</strong> her daughter's rebellious behavior.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Conducive</div>
+</td>
+<td>
+<div><em>adj.</em> able to bring about or be suitable for</div>
+</td>
+<td style="text-align: left;">
+<div>The noisy students hardly made the campus library <strong>conducive</strong> to studying.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Conduct</div>
+</td>
+<td>
+<div><em>v.</em> to control or manage</div>
+<div><em>v.</em> to behave a certain way</div>
+</td>
+<td style="text-align: left;">
+<div>The group <strong>conducted</strong> their research abroad last year.</div>
+<div>Be sure to <strong>conduct</strong> yourself accordingly.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Confide</div>
+</td>
+<td>
+<div><em>v.</em> to share something secretive with someone</div>
+</td>
+<td style="text-align: left;">
+<div>She <strong>confided</strong> all of her biggest secrets in her best friend.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Confine</div>
+</td>
+<td>
+<div><em>v.</em> to put limits on; to restrict</div>
+</td>
+<td style="text-align: left;">
+<div>We are going to <strong>confine</strong> the use of this drinking fountain.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Consensus</div>
+</td>
+<td>
+<div><em>n.</em> overall agreement</div>
+</td>
+<td style="text-align: left;">
+<div>After weeks of debating, the panel finally came to a <strong>consensus.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Constitute</div>
+</td>
+<td>
+<div><em>v.</em> to form or compose (part of) something</div>
+</td>
+<td style="text-align: left;">
+<div>The desire for equality <strong>constituted</strong> the civil rights movement.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Contemplate</div>
+</td>
+<td>
+<div><em>v.</em> to think deeply about</div>
+</td>
+<td style="text-align: left;">
+<div>She <strong>contemplated</strong> telling her teacher about the cheating student.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Contend</div>
+</td>
+<td>
+<div><em>v.</em> to maintain or assert (an opinion)</div>
+</td>
+<td style="text-align: left;">
+<div>The president <strong>contends</strong> that the US government will not negotiate with terrorists.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Contradict</div>
+</td>
+<td>
+<div><em>v.</em> to be in contrast with</div>
+</td>
+<td style="text-align: left;">
+<div>The camera footage <strong>contradicts</strong> his alibi.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Controversial</div>
+</td>
+<td>
+<div><em>adj.</em> highly debatable and causing contention</div>
+</td>
+<td style="text-align: left;">
+<div>Millions of viewers watched the <strong>controversial</strong> debate take place.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Conventional</div>
+</td>
+<td>
+<div><em>adj.</em> abiding by accepted standards</div>
+</td>
+<td style="text-align: left;">
+<div>She lives a <strong>conventional</strong> life in the suburbs.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Convey</div>
+</td>
+<td>
+<div><em>v.</em> to pass on or transfer (information)</div>
+</td>
+<td style="text-align: left;">
+<div>I have trouble <strong>conveying</strong> my thoughts in French.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Conviction</div>
+</td>
+<td>
+<div><em>n. </em>a firm belief in something</div>
+</td>
+<td style="text-align: left;">
+<div>Her religious <strong>convictions</strong> prevent her from eating meat.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Corroborate</div>
+</td>
+<td>
+<div><em>v.</em> to provide evidence for; to back up (a claim)</div>
+</td>
+<td style="text-align: left;">
+<div>The note signed by her father <strong>corroborates</strong> her claim that she was absent from class that day.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Counteract</div>
+</td>
+<td>
+<div><em>v.</em> to work in opposition to</div>
+</td>
+<td style="text-align: left;">
+<div>This ingredient seems to <strong>counteract</strong> the other ones.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Counterargument</div>
+</td>
+<td>
+<div><em>n.</em> an argument used to criticize or dismantle another argument</div>
+</td>
+<td style="text-align: left;">
+<div>Make sure to include a <strong>counterargument</strong> in your essay so that you can show you’ve considered the topic from all perspectives.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Counterproductive</div>
+</td>
+<td>
+<div><em>adj.</em> hindering the achievement of a goal</div>
+</td>
+<td style="text-align: left;">
+<div>Bill’s idea to take a shortcut was ultimately <strong>counterproductive:</strong> it took us twice as long to get to the train station.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Culmination</div>
+</td>
+<td>
+<div><em>n.</em> the final act or climax</div>
+</td>
+<td style="text-align: left;">
+<div>The <strong>culmination</strong> of the performance was unforgettable.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Cultivate</div>
+</td>
+<td>
+<div><em>v.</em> to foster the growth of</div>
+</td>
+<td style="text-align: left;">
+<div>Teachers don’t just pass on new information to students<span>—</span>they<strong> cultivate</strong> their academic potential.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Decree</div>
+</td>
+<td>
+<div><em>v.</em> to declare formally and with authority</div>
+</td>
+<td style="text-align: left;">
+<div>The president <strong>decreed</strong> that Halloween would henceforth be a national holiday.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Deference</div>
+</td>
+<td>
+<div><em>n.</em> respect; regard</div>
+</td>
+<td style="text-align: left;">
+<div>Her <strong>deference</strong> to the elderly makes her the perfect candidate for an internship at the retirement center.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Deficient</div>
+</td>
+<td>
+<div><em>adj.</em> not enough in degree or amount</div>
+</td>
+<td style="text-align: left;">
+<div>I feel as though the sources for my paper are <strong>deficient.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Demonstrate</div>
+</td>
+<td>
+<div><em>v.</em> to do as an example</div>
+<div><em>v.</em> gives evidence for</div>
+</td>
+<td style="text-align: left;">
+<div>Could you <strong>demonstrate</strong> the dance move for me?</div>
+<div>This book’s use of words such as “grim” and “bleak” <strong>demonstrates</strong> the author’s mournful tone.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Demur</div>
+</td>
+<td>
+<div><em>v. </em>to object to</div>
+</td>
+<td style="text-align: left;">
+<div>She <strong>demurred</strong> at my request to transfer to a different department.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Deplete</div>
+</td>
+<td>
+<div><em>v.</em> to (over)use over time (usu. resources)</div>
+</td>
+<td style="text-align: left;">
+<div>The lost campers quickly<strong> depleted</strong> their supply of food.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Desolate</div>
+</td>
+<td>
+<div><em>adj.&nbsp;</em>bare, barren, empty</div>
+</td>
+<td style="text-align: left;">
+<div>The moon is one giant,&nbsp;<strong>desolate</strong> landscape.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Devise</div>
+</td>
+<td>
+<div><em>v.</em> to come up with (a plan)</div>
+</td>
+<td style="text-align: left;">
+<div>Lana<strong> devised</strong> a plan to make herself famous.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Dilemma</div>
+</td>
+<td>
+<div><em>n.</em> a problem, usually requiring a choice between two options</div>
+</td>
+<td style="text-align: left;">
+<div>The main <strong>dilemma</strong> is whether to pay for a commercial or not.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Diligence</div>
+</td>
+<td>
+<div><em>n.</em> conscientiousness; the quality of being committed to a task</div>
+</td>
+<td style="text-align: left;">
+<div><strong>Diligence</strong> and confidence will get you far in life.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Diminish</div>
+</td>
+<td>
+<div><em>v.</em> to become smaller in scope or degree</div>
+</td>
+<td style="text-align: left;">
+<div>The itchiness of mosquito bites usually starts to <strong>diminish</strong> after a few days.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Dire</div>
+</td>
+<td>
+<div><em>adj.</em> hopeless and dangerous or fearful</div>
+</td>
+<td style="text-align: left;">
+<div>When the police didn’t explain what was happening right away, Jane knew that the situation must be <strong>dire.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Discord</div>
+</td>
+<td>
+<div><em>n.&nbsp;</em>disagreement</div>
+</td>
+<td style="text-align: left;">
+<div>Disputes over money caused intense&nbsp;<strong>discord&nbsp;</strong>in the family.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Disdain</div>
+</td>
+<td>
+<div><em>n.</em> a lack of respect and strong dislike (toward something or someone)</div>
+</td>
+<td style="text-align: left;">
+<div>He looked at me with such <strong>disdain</strong> that I immediately knew the job wouldn’t work out.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Dismay</div>
+</td>
+<td>
+<div><em>n.</em>&nbsp;hopelessness, stress, or consternation</div>
+<div><em>v.</em> to fill with woe or apprehension</div>
+</td>
+<td style="text-align: left;">
+<div>To Nick’s <strong>dismay,</strong> he got an F on the test.</div>
+<div>Many were <strong>dismayed</strong> by the town’s implementation of metered parking.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Disparage</div>
+</td>
+<td>
+<div><em>v. </em>to belittle or speak down to</div>
+</td>
+<td style="text-align: left;">
+<div>A good boss is stern but never <strong>disparages</strong> his or her employees.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Dispatch</div>
+</td>
+<td>
+<div><em>v.</em> to send off a message or messenger</div>
+</td>
+<td style="text-align: left;">
+<div>The mother <strong>dispatched</strong> her daughter to their neighbor’s house.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Diversification</div>
+</td>
+<td>
+<div><em>n.</em> the act of becoming diverse</div>
+</td>
+<td style="text-align: left;">
+<div>Lately, there’s been noticeable <strong>diversification</strong> of students at higher institutions.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Doctrine</div>
+</td>
+<td>
+<div><em>n.</em> a principle, theory, or position, usu. advocated by a religion or gov’t</div>
+</td>
+<td style="text-align: left;">
+<div>Devoutly religious people often live their lives according to their <strong>doctrines.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Dominion</div>
+</td>
+<td>
+<div><em>n.</em> power and authority (usu. over a territory)</div>
+<div><em>n.</em> a legal territory</div>
+</td>
+<td style="text-align: left;">
+<div>The country claimed to have <strong>dominion</strong> over parts of Russia.</div>
+<div>Puerto Rico is a <strong>dominion</strong> of the US.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Dreary</div>
+</td>
+<td>
+<div><em>adj.</em> sad, gloomy, dull</div>
+</td>
+<td style="text-align: left;">
+<div>The gray clouds in the sky made the day feel <strong>dreary.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Dubious</div>
+</td>
+<td>
+<div><em>adj.</em> doubtful, questionable</div>
+</td>
+<td style="text-align: left;">
+<div>The man’s claims to the throne were <strong>dubious</strong> since nobody knew where he’d come from.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Eccentric</div>
+</td>
+<td>
+<div><em>adj.</em> peculiar or odd; deviating from the norm</div>
+</td>
+<td style="text-align: left;">
+<div>She’s a little <strong>eccentric</strong> but still fun to be around.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Egregious</div>
+</td>
+<td>
+<div><em>adj.</em> extremely bad</div>
+</td>
+<td style="text-align: left;">
+<div>After cheating on the exam, Emily began to feel as though she’d made an <strong>egregious</strong> mistake.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Eloquent</div>
+</td>
+<td>
+<div><em>adj.</em> having refined or expressive communication skills (in speaking or writing)</div>
+</td>
+<td style="text-align: left;">
+<div>His speech was not only <strong>eloquent</strong> but also extremely compelling.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Eminent</div>
+</td>
+<td>
+<div><em>adj.</em> superior or distinguished; high in position or status</div>
+</td>
+<td style="text-align: left;">
+<div>Our town made news when the <strong>eminent</strong> magician came to perform at our local theater.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Emit</div>
+</td>
+<td>
+<div><em>v.</em> to discharge, give forth, or release</div>
+</td>
+<td style="text-align: left;">
+<div>Plants consume carbon dioxide and <strong>emit</strong> oxygen.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Emphatic</div>
+</td>
+<td>
+<div><em>adj.</em> very expressive; using emphasis</div>
+</td>
+<td style="text-align: left;">
+<div>Her <strong>emphatic</strong> smile told me she was excited to ride the roller coaster.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Empirical</div>
+</td>
+<td>
+<div><em>adj.</em> derived from experience, observation, or an experiment</div>
+</td>
+<td style="text-align: left;">
+<div>You need <strong>empirical</strong> evidence to support your claim.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Endow</div>
+</td>
+<td>
+<div><em>v.</em> to equip or bestow (usu. a quality or ability)</div>
+</td>
+<td style="text-align: left;">
+<div>According to the myth, the gods <strong>endowed</strong> him with the gift of healing.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Endure</div>
+</td>
+<td>
+<div><em>v.</em> to withstand, sustain, or hold out against</div>
+</td>
+<td style="text-align: left;">
+<div>I can’t <strong>endure</strong> this wait any longer. Will Stanford accept or reject me?</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Entail</div>
+</td>
+<td>
+<div><em>v.</em> to involve or include</div>
+</td>
+<td style="text-align: left;">
+<div>A doctoral program <strong>entails</strong> long nights and a heavy workload.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Entrenched</div>
+</td>
+<td>
+<div><em>adj.</em> firmly established</div>
+</td>
+<td style="text-align: left;">
+<div>Her face will forever be <strong>entrenched</strong> in my memory.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Enumerate</div>
+</td>
+<td>
+<div><em>v.</em> to specify or count</div>
+</td>
+<td style="text-align: left;">
+<div>I can’t <strong>enumerate</strong> how many times I’ve had to remind my students when their papers are due.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Envy</div>
+</td>
+<td>
+<div><em>n.</em> excessive jealousy</div>
+<div><em>v.</em> to admire and be jealous of</div>
+</td>
+<td style="text-align: left;">
+<div>His <strong>envy</strong> of her is quite obvious.</div>
+<div>She<strong> envies</strong> her coworker's social skills.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Erratic</div>
+</td>
+<td>
+<div><em>adj.</em> having no fixed course; deviating from the norm</div>
+</td>
+<td style="text-align: left;">
+<div>The car became <strong>erratic</strong> after slipping on ice.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Establish</div>
+</td>
+<td>
+<div><em>v.</em> to enact</div>
+<div><em>v.</em> to found (a business, group, school, etc.)</div>
+</td>
+<td style="text-align: left;">
+<div>They <strong>established</strong> a law that made it illegal to drive after drinking any amount of alcohol.</div>
+<div>Our group<strong> established</strong> a new branch in Chicago.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Evoke</div>
+</td>
+<td>
+<div><em>v.</em> to draw forth or call up</div>
+</td>
+<td style="text-align: left;">
+<div>Horror movies are great at <strong>evoking</strong> fear.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Exacerbate</div>
+</td>
+<td>
+<div><em>v.</em> to make worse or increase the severity of</div>
+</td>
+<td style="text-align: left;">
+<div>The doctor told me not to run as it can <strong>exacerbate</strong> my knee injury.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Excel</div>
+</td>
+<td>
+<div><em>v.</em> to do something extremely well or to be superior in</div>
+</td>
+<td style="text-align: left;">
+<div>She was a well-rounded student but <strong>excelled</strong> especially in science.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Exert</div>
+</td>
+<td>
+<div><em>v.</em> to put into use (usu. as effort)</div>
+</td>
+<td style="text-align: left;">
+<div>Don’t <strong>exert</strong> all of your energy at once.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Exhilarating</div>
+</td>
+<td>
+<div><em>adj.</em> invigorating, stimulating, or exciting</div>
+</td>
+<td style="text-align: left;">
+<div>The music playing at the club was catchy and <strong>exhilarating.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Expend</div>
+</td>
+<td>
+<div><em>v.</em> to use up (as in energy or money)</div>
+</td>
+<td style="text-align: left;">
+<div>Be careful not to<strong> expend</strong> all your energy in the first half of a marathon.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Exploit</div>
+</td>
+<td>
+<div><em>v.</em> to use selfishly or for profit</div>
+</td>
+<td style="text-align: left;">
+<div>The shoddy company <strong>exploited</strong> its workers by paying them extremely low wages.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Facilitate</div>
+</td>
+<td>
+<div><em>v. </em>to aid the progress of</div>
+</td>
+<td style="text-align: left;">
+<div>In grad school, advisors <strong>facilitate</strong> students’ research and offer constructive criticism.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Feasibility</div>
+</td>
+<td>
+<div><em>n.</em> the practicality or possibility of something</div>
+</td>
+<td style="text-align: left;">
+<div>The <strong>feasibility</strong> of her project was doubtful; she’d have to go all the way to Antarctica and back before the school year ended.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Ferocity</div>
+</td>
+<td>
+<div><em>n.</em> viciousness, violence</div>
+</td>
+<td style="text-align: left;">
+<div>The lion is just one wild animal known for its <strong>ferocity.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Fiscal</div>
+</td>
+<td>
+<div><em>adj.&nbsp;</em>related to (government) money</div>
+</td>
+<td style="text-align: left;">
+<div><strong>Fiscal</strong> policy is how the government uses money to influence the economy.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Flourish</div>
+</td>
+<td>
+<div><em>v.</em> to prosper, grow, or make fast progress</div>
+</td>
+<td style="text-align: left;">
+<div>After one year, the tiny plants had <strong>flourished</strong> into a breathtaking garden.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Fluctuate</div>
+</td>
+<td>
+<div><em>v.</em> to be unstable; to rise and fall</div>
+</td>
+<td style="text-align: left;">
+<div>Stocks can <strong>fluctuate</strong> on a daily basis, making it difficult to determine when to buy or sell one.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Foment</div>
+</td>
+<td>
+<div><em>v.&nbsp;</em>to stir up</div>
+</td>
+<td style="text-align: left;">
+<div>The civilians accused their leader of&nbsp;<strong>fomenting</strong>&nbsp;political unrest.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Foreseeable</div>
+</td>
+<td>
+<div><em>adj.</em> capable of being predicted or anticipated</div>
+</td>
+<td style="text-align: left;">
+<div>I can't imagine aliens visiting us in the <strong>foreseeable</strong> future.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Frankly</div>
+</td>
+<td>
+<div><em>adv.</em> directly, clearly</div>
+</td>
+<td style="text-align: left;">
+<div>I<strong> frankly</strong> don’t see the point in learning to drive.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Freewheeling</div>
+</td>
+<td>
+<div><em>adj.</em> carefree</div>
+</td>
+<td style="text-align: left;">
+<div>His <strong>freewheeling</strong> attitude often got him in trouble at work.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Fundamental</div>
+</td>
+<td>
+<div><em>adj.</em> the most essential or most basic part</div>
+</td>
+<td style="text-align: left;">
+<div>A thesis is arguably the most <strong>fundamental</strong> part of an essay.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Galvanizing</div>
+</td>
+<td>
+<div><em>adj.</em> thrilling, exciting, stimulating</div>
+</td>
+<td style="text-align: left;">
+<div>The <strong>galvanizing</strong> performance left everyone spellbound.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Geriatric</div>
+</td>
+<td>
+<div><em>adj.</em> relating to old age</div>
+</td>
+<td style="text-align: left;">
+<div>I became interested in <strong>geriatric</strong> medicine shortly after my grandfather passed away from cancer.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Hostile</div>
+</td>
+<td>
+<div><em>adj.</em> harmful, dangerous</div>
+</td>
+<td style="text-align: left;">
+<div>The voices around the corner sounded angry, <strong>hostile</strong> even.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Hypothetical</div>
+</td>
+<td>
+<div><em>adj.</em> supposed; related to a hypothesis</div>
+</td>
+<td style="text-align: left;">
+<div>For my physics homework, I must come up with a <strong>hypothetical</strong> situation.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Ignominious</div>
+</td>
+<td>
+<div><em>adj.&nbsp;</em>publicly shameful or humiliating</div>
+</td>
+<td style="text-align: left;">
+<div>The politician's expensive campaign ultimately ended in&nbsp;<strong>ignominious</strong> defeat.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Impart</div>
+</td>
+<td>
+<div><em>v.</em> to transmit, bestow, or disclose</div>
+</td>
+<td style="text-align: left;">
+<div>Parents must<strong> impart</strong> common sense to their children.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Impartiality</div>
+</td>
+<td>
+<div><em>n.</em> the equal and objective treatment of opposing views</div>
+</td>
+<td style="text-align: left;">
+<div>To ensure <strong>impartiality,</strong> we require everyone to follow these general guidelines.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Imposing</div>
+</td>
+<td>
+<div><em>adj.</em> impressive (esp. in size or appearance)</div>
+</td>
+<td style="text-align: left;">
+<div>The old mansion was <strong>imposing</strong> in its huge size and gothic architecture.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Imposition</div>
+</td>
+<td>
+<div><em>n.</em> an unnecessary burden</div>
+</td>
+<td style="text-align: left;">
+<div>If it’s not too much of an <strong>imposition,</strong> could you proofread my paper?</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Imprudent</div>
+</td>
+<td>
+<div><em>adj.</em> not cautious or prudent; rash</div>
+</td>
+<td style="text-align: left;">
+<div>Backpacking abroad can be fun, but don’t be <strong>imprudent</strong> about money.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Incite</div>
+</td>
+<td>
+<div><em>v.</em> to encourage or stir up</div>
+</td>
+<td style="text-align: left;">
+<div>Her hateful words <strong>incited</strong> anger in the crowd.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Indifference</div>
+</td>
+<td>
+<div><em>n.</em> apathy, emotional detachment</div>
+</td>
+<td style="text-align: left;">
+<div>The girl’s <strong>indifference</strong> toward her brother upset their parents.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Indiscriminately</div>
+</td>
+<td>
+<div><em>adv.</em> randomly; with little or no distinction</div>
+</td>
+<td style="text-align: left;">
+<div>Lottery winners are chosen <strong>indiscriminately.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Indulge</div>
+</td>
+<td>
+<div><em>v.</em> to give into; to satisfy or gratify</div>
+</td>
+<td style="text-align: left;">
+<div>My friend loves to<strong> indulge</strong> in cheesy romance movies.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Infer</div>
+</td>
+<td>
+<div><em>v.</em> to guess, conclude, or derive by reasoning</div>
+</td>
+<td style="text-align: left;">
+<div>You can <strong>infer</strong> from this quotation that the writer didn’t care for “pretty” language.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Innovative</div>
+</td>
+<td>
+<div><em>adj.</em> novel or new (esp. as an idea or invention)</div>
+</td>
+<td style="text-align: left;">
+<div>Her invention was incredibly <strong>innovative</strong> and won her multiple awards.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Insatiable</div>
+</td>
+<td>
+<div><em>adj.</em> can’t be satisfied</div>
+</td>
+<td style="text-align: left;">
+<div>A vampire’s thirst for blood is said to be <strong>insatiable.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Inversion</div>
+</td>
+<td>
+<div><em>n.</em> a reversal</div>
+</td>
+<td style="text-align: left;">
+<div>The culture’s norms were an <strong>inversion</strong> of our own.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Invoke</div>
+</td>
+<td>
+<div><em>v.</em> to call on; to appeal to (e.g., a higher power)</div>
+</td>
+<td style="text-align: left;">
+<div>The shaman attempted to <strong>invoke</strong> a demon.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Irreconcilable</div>
+</td>
+<td>
+<div><em>adj. </em>incapable of being in harmony or agreed upon</div>
+</td>
+<td style="text-align: left;">
+<div>The couple’s differences were ultimately <strong>irreconcilable,</strong> giving them no choice but to break up.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Lament</div>
+</td>
+<td>
+<div><em>v.</em> to feel sorrow for; to mourn</div>
+</td>
+<td style="text-align: left;">
+<div>Susan <strong>lamented</strong> her missed chance at going to Europe with her high school class.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Locomotion</div>
+</td>
+<td>
+<div><em>n.</em> movement</div>
+</td>
+<td style="text-align: left;">
+<div>Physics involves the study of <strong>locomotion.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Lucrative</div>
+</td>
+<td>
+<div><em>adj.</em> capable of making a lot of money; profitable</div>
+</td>
+<td style="text-align: left;">
+<div>Writing books isn’t a particularly <strong>lucrative</strong> career, unless you’re J.K. Rowling.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Malicious</div>
+</td>
+<td>
+<div><em>adj.</em> harmful, spiteful</div>
+</td>
+<td style="text-align: left;">
+<div>The <strong>malicious</strong> spirit drove out the inhabitants from their home.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Malleable</div>
+</td>
+<td>
+<div><em>adj.</em> capable of being molded or changed</div>
+</td>
+<td style="text-align: left;">
+<div>Children’s minds are <strong>malleable</strong> but only for so long.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Materialistic</div>
+</td>
+<td>
+<div><em>adj.</em> superficial; focus on material possessions</div>
+</td>
+<td style="text-align: left;">
+<div>Many people accuse Americans of being <strong>materialistic.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Melodramatic</div>
+</td>
+<td>
+<div><em>adj.</em> extravagant or exaggerated (as of a melodrama)</div>
+</td>
+<td style="text-align: left;">
+<div>The<strong> melodramatic</strong> play was well liked by the audience.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Modest</div>
+</td>
+<td>
+<div><em>adj.</em> simple and humble</div>
+<div><em>adj.</em> small in size or amount</div>
+</td>
+<td style="text-align: left;">
+<div>They moved into a<strong> modest</strong> house in the countryside.</div>
+<div>I received a <strong>modest</strong> sum of money for my help at the company event.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Modify</div>
+</td>
+<td>
+<div><em>v.</em> to change, alter, or tweak</div>
+</td>
+<td style="text-align: left;">
+<div>Dr. Nguyen<strong> modified</strong> the gene so that it wouldn’t carry the disease.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Momentous</div>
+</td>
+<td>
+<div><em>adj.</em> historically significant</div>
+</td>
+<td style="text-align: left;">
+<div>Her win in the election was <strong>momentous.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Novel</div>
+</td>
+<td>
+<div><em>adj.</em> new, innovative</div>
+</td>
+<td style="text-align: left;">
+<div>We are looking for<strong> novel</strong> ways to approach the project.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Nuance</div>
+</td>
+<td>
+<div><em>n. </em>a&nbsp;subtle difference in meaning</div>
+</td>
+<td style="text-align: left;">
+<div>Body-language experts even understand the <strong>nuances</strong> of facial expressions.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Null</div>
+</td>
+<td>
+<div><em>adj.</em> legally void and ineffective</div>
+</td>
+<td style="text-align: left;">
+<div>The government declared their marriage <strong>null.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Objectivity</div>
+</td>
+<td>
+<div><em>n.</em> judgment based on observations instead of emotions or opinions</div>
+</td>
+<td style="text-align: left;">
+<div>In scientific research, <strong>objectivity</strong> is of utmost importance.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Obsolete</div>
+</td>
+<td>
+<div><em>adj.</em> no longer used; rare or uncommon</div>
+</td>
+<td style="text-align: left;">
+<div>Historians assumed record players would be <strong>obsolete</strong> by now, but in fact they’re making a huge comeback.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Omnipotent</div>
+</td>
+<td>
+<div><em>adj.</em> almighty and all powerful</div>
+</td>
+<td style="text-align: left;">
+<div>Gods are <strong>omnipotent</strong> beings who can control human destiny.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Onset</div>
+</td>
+<td>
+<div><em>n.</em> the beginning or early stages</div>
+</td>
+<td style="text-align: left;">
+<div>At the <strong>onset</strong> of her career as a lawyer, things were looking up.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Opine</div>
+</td>
+<td>
+<div><em>v.</em> to openly express an opinion</div>
+</td>
+<td style="text-align: left;">
+<div>The new employee<strong> opined</strong> at the company meeting.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Ornate</div>
+</td>
+<td>
+<div><em>adj.</em> highly detailed and decorated</div>
+</td>
+<td style="text-align: left;">
+<div>That <strong>ornate</strong> silverware must be worth thousands of dollars!</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Oust</div>
+</td>
+<td>
+<div><em>v.</em> to remove or force out of (usu. a position or office)</div>
+</td>
+<td style="text-align: left;">
+<div>Sick and tired of putting up with his bad moods, the pirates <strong>ousted</strong> their captain.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Paramount</div>
+</td>
+<td>
+<div><em>adj.</em> predominant, superior, most important</div>
+</td>
+<td style="text-align: left;">
+<div>Our <strong>paramount</strong> concern is the safety of our employees.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Peculiar</div>
+</td>
+<td>
+<div><em>adj.</em> strange, bizarre</div>
+</td>
+<td style="text-align: left;">
+<div>Upon entering the abandoned house, Kate experienced a <strong>peculiar</strong> feeling, as if someone was watching her.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Perish</div>
+</td>
+<td>
+<div><em>v.</em> to die; to pass away</div>
+</td>
+<td style="text-align: left;">
+<div>According to the news, nobody <strong>perished</strong> in the fire.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Persecute</div>
+</td>
+<td>
+<div><em>v.</em> to cause suffering to</div>
+</td>
+<td style="text-align: left;">
+<div>They will <strong>persecute</strong> anyone who doesn’t agree with their views of the world.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Petulant</div>
+</td>
+<td>
+<div><em>adj.&nbsp;</em>cranky, pouty, irritable</div>
+</td>
+<td style="text-align: left;">
+<div><strong>Petulant</strong> children are especially difficult to care for.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Pinnacle</div>
+</td>
+<td>
+<div><em>n.</em> highest level or degree</div>
+</td>
+<td style="text-align: left;">
+<div>Many believe that composers such as Beethoven and Mozart represent the <strong>pinnacle</strong> of classical music.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Pitiable</div>
+</td>
+<td>
+<div><em>adj.</em> deserving pity</div>
+</td>
+<td style="text-align: left;">
+<div>The frail-looking dog was <strong>pitiable,</strong> so I gave it some food and took it inside to care for it.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Plausible</div>
+</td>
+<td>
+<div><em>adj.</em> reasonable and possibly true</div>
+</td>
+<td style="text-align: left;">
+<div>Her story is<strong> plausible,</strong> but that doesn’t mean she’s telling the truth.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Postulate</div>
+</td>
+<td>
+<div><em>v.</em> to assert</div>
+</td>
+<td style="text-align: left;">
+<div>The literary critic <strong>postulates</strong> that romanticism and naturalism are actually interconnected.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Potent</div>
+</td>
+<td>
+<div><em>adj.</em> having great influence</div>
+<div><em>adj.</em> having a strong, chemical effect</div>
+</td>
+<td style="text-align: left;">
+<div>The bald eagle is a<strong> potent</strong> symbol of the US.</div>
+<div>The potion was definitely <strong>potent</strong><span>—</span>it healed my wounds immediately!</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Pragmatic</div>
+</td>
+<td>
+<div><em>adj.</em> practical, useful</div>
+</td>
+<td style="text-align: left;">
+<div>It’s not necessarily more <strong>pragmatic</strong> to study engineering than it is to study philosophy.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Precedent</div>
+</td>
+<td>
+<div><em>n.</em> an example or subject from earlier in time</div>
+</td>
+<td style="text-align: left;">
+<div>This change in law is without historical <strong>precedent.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Predecessor</div>
+</td>
+<td>
+<div><em>n.</em> &nbsp;someone who comes before you (usu. in position or office)</div>
+</td>
+<td style="text-align: left;">
+<div>My <strong>predecessor</strong> gave me many tips for running the office.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Prescribe</div>
+</td>
+<td>
+<div><em>v.</em> to command orders</div>
+<div><em>v.</em> to issue authorization for medications</div>
+</td>
+<td style="text-align: left;">
+<div>The directions for our essay <strong>prescribe</strong> a length of at least ten pages.</div>
+<div>A doctor must <strong>prescribe</strong> you this medication before you can begin taking it.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Principle</div>
+</td>
+<td>
+<div><em>n.</em> basic truth, assumption, or rule</div>
+</td>
+<td style="text-align: left;">
+<div>Remember the universal <strong>principle:</strong> treat others as you want them to treat you.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Prohibit</div>
+</td>
+<td>
+<div><em>v.</em> to command against, to outlaw</div>
+</td>
+<td style="text-align: left;">
+<div>Alcohol was <strong>prohibited</strong> in the US in the 1920s.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Prompt</div>
+</td>
+<td>
+<div><em>adj.</em><span>&nbsp;</span>punctual, on time</div>
+<div><em>n.</em><span>&nbsp;</span>a cue to begin something; instructions</div>
+<div><em>v.</em> to incite, propel, or cause to act</div>
+</td>
+<td style="text-align: left;">
+<div>She is always<span>&nbsp;</span><strong>prompt</strong><span>&nbsp;</span>when it comes to turning in her homework.</div>
+<div>I had to write an essay based on a<span>&nbsp;</span><strong>prompt.</strong></div>
+<div>The possibility of a scholarship<strong> prompted</strong> him to apply to Harvard.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Promulgate</div>
+</td>
+<td>
+<div><em>v.</em> to put into law or formally declare</div>
+</td>
+<td style="text-align: left;">
+<div>The ruler will at last<strong> promulgate</strong> an amnesty with the neighboring countries.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Prosecute</div>
+</td>
+<td>
+<div><em>v.</em> to bring criminal action against someone (in a trial)</div>
+</td>
+<td style="text-align: left;">
+<div>The suspect was <strong>prosecuted</strong> yesterday.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Provocative</div>
+</td>
+<td>
+<div><em>adj.</em> intending to provoke, inspire, or arouse</div>
+</td>
+<td style="text-align: left;">
+<div>Her nude paintings are considered quite <strong>provocative.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Qualitative</div>
+</td>
+<td>
+<div><em>adj.</em> involving qualities of something (features and content)</div>
+</td>
+<td style="text-align: left;">
+<div>I noticed a <strong>qualitative</strong> change in her paintings.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Quantitative</div>
+</td>
+<td>
+<div><em>adj.</em> involving quantities (numbers and amounts)</div>
+</td>
+<td style="text-align: left;">
+<div>We must conduct a <strong>quantitative</strong> analysis.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Quirk</div>
+</td>
+<td>
+<div><em>n.</em> a strange habit</div>
+</td>
+<td style="text-align: left;">
+<div>His biggest <strong>quirk</strong> is his love of old marbles.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Ramify</div>
+</td>
+<td>
+<div><em>v.</em> to split into two or more branches</div>
+</td>
+<td style="text-align: left;">
+<div>Cars <strong>ramified</strong> throughout the world in the twentieth century.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Rash</div>
+</td>
+<td>
+<div><em>adj.</em> without attention to danger or risk</div>
+</td>
+<td style="text-align: left;">
+<div>Her <strong>rash</strong> decision to pass the car nearly resulted in a crash.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Raw</div>
+</td>
+<td>
+<div><em>adj.</em> unrefined</div>
+<div><em>adj.</em> not processed; uncooked (as in food)</div>
+</td>
+<td style="text-align: left;">
+<div>He’s got <strong>raw</strong> talent as a singer, but he needs to work on his performance skills.</div>
+<div>In some countries, such as Japan, it is normal to eat <strong>raw</strong> fish.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Readily</div>
+</td>
+<td>
+<div><em>adv.</em> right away and without difficulty</div>
+</td>
+<td style="text-align: left;">
+<div>Water was <strong>readily</strong> available at different points in the race.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Reconsideration</div>
+</td>
+<td>
+<div><em>n.</em> thinking again about a previously made choice</div>
+</td>
+<td style="text-align: left;">
+<div>The judges’ <strong>reconsideration</strong> of her performance resulted in her victory.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Reform</div>
+</td>
+<td>
+<div><em>n.</em> a change for the better; improvement</div>
+<div><em>v.</em> to improve via change</div>
+</td>
+<td style="text-align: left;">
+<div>The <strong>reform</strong> made it so that only those 18 and older can legally drive.</div>
+<div>The government <strong>reformed</strong> its vague policies on marijuana use.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Refute</div>
+</td>
+<td>
+<div><em>v.</em> to prove to be untrue, unfounded, or incorrect</div>
+</td>
+<td style="text-align: left;">
+<div>The student <strong>refuted</strong> the professor’s claim in class.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Reinforce</div>
+</td>
+<td>
+<div><em>v.</em> to strengthen or add support to</div>
+</td>
+<td style="text-align: left;">
+<div>We can use these pipes to <strong>reinforce</strong> the structure.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Reluctantly</div>
+</td>
+<td>
+<div><em>adv.</em> somewhat unwillingly</div>
+</td>
+<td style="text-align: left;">
+<div>Max <strong>reluctantly</strong> agreed to see the horror movie with his friends.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Renounce</div>
+</td>
+<td>
+<div><em>v.</em> to give up (usu. power or a position)</div>
+<div><em>v.</em> to cast off</div>
+</td>
+<td style="text-align: left;">
+<div>Our CEO <strong>renounced</strong> her position yesterday.</div>
+<div>He <strong>renounced </strong>his friend after he caught her stealing money from him.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Reproach</div>
+</td>
+<td>
+<div><em>v.</em> to criticize</div>
+</td>
+<td style="text-align: left;">
+<div>The mother <strong>reproached</strong> her daughter’s school for making students come in during a blizzard.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Repudiate</div>
+</td>
+<td>
+<div><em>v.</em> to refuse to recognize as true</div>
+<div><em>v.</em> to cast off</div>
+</td>
+<td style="text-align: left;">
+<div>The father <strong>repudiated</strong> his son’s marriage.</div>
+<div>She <strong>repudiated</strong> her son once she found out he’d married someone without telling her.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Retention</div>
+</td>
+<td>
+<div><em>n.</em> the act of keeping something</div>
+</td>
+<td style="text-align: left;">
+<div>Water <strong>retention</strong> can make you weigh more on certain days.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Satiated</div>
+</td>
+<td>
+<div><em>adj.</em> satisfied (usu. in hunger)</div>
+</td>
+<td style="text-align: left;">
+<div>I felt <strong>satiated</strong> after eating a snack.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Savvy</div>
+</td>
+<td>
+<div><em>adj.</em> having practical intelligence or knowledge</div>
+</td>
+<td style="text-align: left;">
+<div>My brother is not very <strong>savvy</strong> when it comes to using public transportation.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Scandalous</div>
+</td>
+<td>
+<div><em>adj.</em> morally offensive, often causing damage to one’s reputation</div>
+</td>
+<td style="text-align: left;">
+<div>The <strong>scandalous</strong> politician decided it was best to resign from office.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Scorn</div>
+</td>
+<td>
+<div><em>v.</em> to look down on with disdain</div>
+</td>
+<td style="text-align: left;">
+<div>It’s difficult for me not to<strong> scorn</strong> those who use improper grammar.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Scrupulous</div>
+</td>
+<td>
+<div><em>adj.</em> paying great attention to detail</div>
+</td>
+<td style="text-align: left;">
+<div>I am a <strong>scrupulous</strong> proofreader and never miss an error.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Scrutinize</div>
+</td>
+<td>
+<div><em>v.</em> to examine carefully and critically</div>
+</td>
+<td style="text-align: left;">
+<div>The teacher <strong>scrutinized</strong> her students’ essays.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Secrete</div>
+</td>
+<td>
+<div><em>v.</em> to produce or release (a substance)</div>
+</td>
+<td style="text-align: left;">
+<div>Trees <strong>secrete</strong> a sticky substance called sap.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Sentiment</div>
+</td>
+<td>
+<div><em>n.</em> opinion</div>
+<div><em>n.</em> a tender or moving gesture</div>
+</td>
+<td style="text-align: left;">
+<div>I am of the <strong>sentiment</strong> that you should never give out your passwords to anyone.</div>
+<div>Even though I’m not a big fan of porcelain dolls, I appreciated the <strong>sentiment.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Sheer</div>
+</td>
+<td>
+<div><em>adj.</em> so thin that light can shine through</div>
+</td>
+<td style="text-align: left;">
+<div>The curtains on the window were so <strong>sheer</strong> you could clearly see inside the house.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Simple</div>
+</td>
+<td>
+<div><em>adj.</em> easy; not complex</div>
+<div><em>adj.</em> undecorated</div>
+</td>
+<td style="text-align: left;">
+<div>This math problem is so <strong>simple</strong> even a first grader can solve it.</div>
+<div>The <strong>simple</strong> beauty of the ocean is what makes it memorable.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Sinister</div>
+</td>
+<td>
+<div><em>adj.</em> ominous, evil</div>
+</td>
+<td style="text-align: left;">
+<div>Medieval peasants believed <strong>sinister</strong> demons could harm humans.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Solidarity</div>
+</td>
+<td>
+<div><em>n.</em> the joining of commonalities or common purposes among a group</div>
+</td>
+<td style="text-align: left;">
+<div>I stood in <strong>solidarity</strong> with other female students by refusing to wear the school’s sexist uniform.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Sparingly</div>
+</td>
+<td>
+<div><em>adv.</em> insufficiently, meagerly, or in a restricted manner</div>
+</td>
+<td style="text-align: left;">
+<div>Due to my condition, I must eat salt <strong>sparingly.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Spawn</div>
+</td>
+<td>
+<div><em>v.</em> to release eggs</div>
+<div><em>v.</em> to call forth or generate</div>
+</td>
+<td style="text-align: left;">
+<div>Frogs typically <strong>spawn</strong> in ponds.</div>
+<div>The topic <strong>spawned</strong> an ongoing debate among his family members.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Spur</div>
+</td>
+<td>
+<div><em>v.</em> to stimulate or incite</div>
+</td>
+<td style="text-align: left;">
+<div>Her bravery <strong>spurred</strong> others to act.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Squalid</div>
+</td>
+<td>
+<div><em>adj.</em> run-down, sordid, or sleazy</div>
+</td>
+<td style="text-align: left;">
+<div>The <strong>squalid</strong> cabin needed a new roof and an exterminator.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Stark</div>
+</td>
+<td>
+<div><em>adj.</em> very plain; devoid of any details or features</div>
+</td>
+<td style="text-align: left;">
+<div>Looking out at the <strong>stark</strong> landscape, I felt a keen sense of isolation.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Static</div>
+</td>
+<td>
+<div><em>adj.</em> motionless</div>
+<div><em>adj.</em> changeless</div>
+</td>
+<td style="text-align: left;">
+<div>The ball is <strong>static.</strong></div>
+<div>Her life has been<strong> static</strong> for the past three years.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Subordinate</div>
+</td>
+<td>
+<div><em>adj.</em> lower in rank</div>
+<div><em>n.</em> someone lower in rank</div>
+<div><em>v.</em> to make dependent on or put at a lower rank</div>
+</td>
+<td style="text-align: left;">
+<div>The <strong>subordinate</strong> officers work every day.</div>
+<div>My <strong>subordinate</strong> will check you in.</div>
+<div>You aren’t my boss<span>—</span>you can’t <strong>subordinate</strong> me to the role of receptionist!</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Subsequently</div>
+</td>
+<td>
+<div><em>adv.</em> happening later or after something</div>
+</td>
+<td style="text-align: left;">
+<div>I <strong>subsequently</strong> went home.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Substantial</div>
+</td>
+<td>
+<div><em>adj.</em> very large in amount or degree</div>
+</td>
+<td style="text-align: left;">
+<div>I was shocked to find a <strong>substantial</strong> amount of money beneath the park bench.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Substantiate</div>
+</td>
+<td>
+<div><em>v.</em> to strengthen with new evidence or facts</div>
+</td>
+<td style="text-align: left;">
+<div>It is important for scientists to <strong>substantiate</strong> their theories whenever possible.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Subtle</div>
+</td>
+<td>
+<div><em>adj.</em> hard to detect or analyze</div>
+</td>
+<td style="text-align: left;">
+<div>I detected in her expression a <strong>subtle</strong> hint of irritation.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Sufficient</div>
+</td>
+<td>
+<div><em>adj.</em> enough; just meeting a requirement</div>
+</td>
+<td style="text-align: left;">
+<div>These boxes should be <strong>sufficient</strong> for our move.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Surly</div>
+</td>
+<td>
+<div><em>adj.</em> unfriendly; inclined to anger</div>
+</td>
+<td style="text-align: left;">
+<div>The bartender was a <strong>surly</strong> fellow who wasn’t afraid to start a fight.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Surmount</div>
+</td>
+<td>
+<div><em>v.</em>&nbsp;to get on top of or overcome</div>
+</td>
+<td style="text-align: left;">
+<div>They managed to <strong>surmount</strong> the language barrier by using a translation app.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Susceptible</div>
+</td>
+<td>
+<div><em>adj.</em> to be vulnerable (to something)</div>
+</td>
+<td style="text-align: left;">
+<div>Children are more <strong>susceptible</strong> to certain illnesses than adults are.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Tactful</div>
+</td>
+<td>
+<div><em>adj.</em> skilled at dealing with people</div>
+</td>
+<td style="text-align: left;">
+<div>Her <strong>tactful</strong> attitude toward our class made her one of my favorite teachers.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Taut</div>
+</td>
+<td>
+<div><em>adj.</em> pulled tight</div>
+</td>
+<td style="text-align: left;">
+<div>The rubberband was <strong>taut</strong> and ready to be fired.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Teeming</div>
+</td>
+<td>
+<div><em>adj.</em> abundantly filled (usu. with living organisms)</div>
+</td>
+<td style="text-align: left;">
+<div>Doorknobs are not as clean as they look and are often<strong> teeming</strong> with germs.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Temperament</div>
+</td>
+<td>
+<div><em>n.</em> usual mood or feelings</div>
+</td>
+<td style="text-align: left;">
+<div>She had a hostile <strong>temperament,</strong> making her intimidating to most people.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Tentative</div>
+</td>
+<td>
+<div><em>adj.</em> not yet finalized</div>
+</td>
+<td style="text-align: left;">
+<div>We haven’t made any official arrangements yet, but the <strong>tentative</strong> location for our wedding is Hawaii.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Transparent</div>
+</td>
+<td>
+<div><em>adj.</em> see-through; so thin that light can shine through</div>
+<div><em>adj.</em> truthful or easy to perceive</div>
+</td>
+<td style="text-align: left;">
+<div>Stained window glass isn’t as <strong>transparent</strong> as regular window glass is.</div>
+<div>She was <strong>transparent</strong> about her plans to end her marriage.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Treacherous</div>
+</td>
+<td>
+<div><em>adj.</em> dangerous and unstable</div>
+</td>
+<td style="text-align: left;">
+<div>The journey was becoming <strong>treacherous,</strong> but they continued on regardless.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Tremendous</div>
+</td>
+<td>
+<div><em>adj.</em> very large, good, or bad in degree or size</div>
+</td>
+<td style="text-align: left;">
+<div><strong>Tremendous</strong> news! You don’t have to repay your loans!</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Ubiquitous</div>
+</td>
+<td>
+<div><em>adj.&nbsp;</em>being everywhere at once</div>
+</td>
+<td style="text-align: left;">
+<div>Cell phones are <strong>ubiquitous</strong> these days.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Unadorned</div>
+</td>
+<td>
+<div><em>adj.</em> undecorated, plain</div>
+</td>
+<td style="text-align: left;">
+<div>Though the dress was cheap and <strong>unadorned,</strong> it was by far her favorite one on the rack.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Undermine</div>
+</td>
+<td>
+<div><em>v.</em> to weaken or subvert (usu. gradually or secretly)</div>
+</td>
+<td style="text-align: left;">
+<div>Parents should take care not to constantly <strong>undermine</strong> their children.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Underscore</div>
+</td>
+<td>
+<div><em>v.</em> to emphasize or give additional weight to</div>
+</td>
+<td style="text-align: left;">
+<div>This sentence seems to <strong>underscore</strong> the overall meaning of the passage.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Undulate</div>
+</td>
+<td>
+<div><em>v.</em> to move as ripples or in a wavy pattern</div>
+</td>
+<td style="text-align: left;">
+<div>Belly dancers are known for their ability to skillfully <strong>undulate</strong> their stomachs.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Unilateral</div>
+</td>
+<td>
+<div><em>adj.</em> one-sided</div>
+</td>
+<td style="text-align: left;">
+<div>The <strong>unilateral</strong> decision was deemed unfair by the other party involved.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Unjust</div>
+</td>
+<td>
+<div><em>adj.</em> unfair; not justified</div>
+</td>
+<td style="text-align: left;">
+<div>The court’s decision is <strong>unjust</strong><span>—</span>he should not go free.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Unmitigated</div>
+</td>
+<td>
+<div><em>adj.</em> downright, utter, total</div>
+</td>
+<td style="text-align: left;">
+<div>My speech was an <strong>unmitigated</strong> disaster!</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Unprecedented</div>
+</td>
+<td>
+<div><em>adj.</em> completely new and never having happened before; historic</div>
+</td>
+<td style="text-align: left;">
+<div>The number of protestors was <strong>unprecedented.</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Unveil</div>
+</td>
+<td>
+<div><em>v.</em> to make visible; to reveal</div>
+</td>
+<td style="text-align: left;">
+<div>We plan to <strong>unveil</strong> our plans for the new company project on Sunday.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Urge</div>
+</td>
+<td>
+<div><em>n.<span><span>&nbsp;</span></span></em>desire or impulse</div>
+<div><em>v.</em> to encourage or persuade</div>
+</td>
+<td style="text-align: left;">
+<div><span>He had the&nbsp;</span><strong>urge</strong><span><span>&nbsp;</span>to tell his parents about his acceptance to Columbia but decided against it.</span></div>
+<div>She<strong> urged</strong> her sister to apply to Stanford.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Validate</div>
+</td>
+<td>
+<div><em>v. </em>to prove or declare valid</div>
+</td>
+<td style="text-align: left;">
+<div>Your selfish actions do not <strong>validate</strong> your feelings for me.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Viability</div>
+</td>
+<td>
+<div><em>n.</em> ability to be done in a practical or useful way</div>
+</td>
+<td style="text-align: left;">
+<div>The <strong>viability</strong> of the solution is questionable.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Vital</div>
+</td>
+<td>
+<div><em>adj.</em> urgently necessary</div>
+</td>
+<td style="text-align: left;">
+<div>It is <strong>vital</strong> that you respond by the deadline.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Vow</div>
+</td>
+<td>
+<div><em>v.</em> to promise</div>
+</td>
+<td style="text-align: left;">
+<div>My brother quickly broke his <strong>vow</strong> to never eat chocolate again.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Warrant</div>
+</td>
+<td>
+<div><em>v.</em> to prove to be reasonable</div>
+</td>
+<td style="text-align: left;">
+<div>Wanting to look cool in front of your friends doesn’t <strong>warrant</strong> breaking the law.</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Yield</div>
+</td>
+<td>
+<div><em>n.<span><span>&nbsp;</span></span></em>production of an amount</div>
+<div><em>v.</em> to give way to or surrender to</div>
+<div><em>v.</em> to produce or supply</div>
+</td>
+<td style="text-align: left;">
+<div><span>The farmer’s annual pumpkin&nbsp;</span><strong>yield</strong><span><span>&nbsp;</span>exceeded 10,000.</span></div>
+<div>Cars turning right on red must <strong>yield</strong> to oncoming traffic.</div>
+<div>Our experiment <strong>yielded</strong> many unique-looking vegetables.</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><img src="https://blog.prepscholar.com/hs-fs/hubfs/body_student_reading_library.jpg?width=500&amp;name=body_student_reading_library.jpg" alt="body_student_reading_library.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 500px;" width="500" srcset="https://blog.prepscholar.com/hs-fs/hubfs/body_student_reading_library.jpg?width=250&amp;name=body_student_reading_library.jpg 250w, https://blog.prepscholar.com/hs-fs/hubfs/body_student_reading_library.jpg?width=500&amp;name=body_student_reading_library.jpg 500w, https://blog.prepscholar.com/hs-fs/hubfs/body_student_reading_library.jpg?width=750&amp;name=body_student_reading_library.jpg 750w, https://blog.prepscholar.com/hs-fs/hubfs/body_student_reading_library.jpg?width=1000&amp;name=body_student_reading_library.jpg 1000w, https://blog.prepscholar.com/hs-fs/hubfs/body_student_reading_library.jpg?width=1250&amp;name=body_student_reading_library.jpg 1250w, https://blog.prepscholar.com/hs-fs/hubfs/body_student_reading_library.jpg?width=1500&amp;name=body_student_reading_library.jpg 1500w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p>&nbsp;</p>
+<h2>How to Study SAT Words Effectively: 3 Essential Tips</h2>
+<p>Now that you've got a huge list of SAT vocabulary words you can work with, what’s the best way to study them? Here are three key tips to help you get the most out of your SAT vocab studies.</p>
+<p>&nbsp;</p>
+<h3><span style="background-color: transparent;">#1: Make Flashcards and Use the Waterfall Method</span></h3>
+<p>One of the absolute best ways to study SAT vocab words is to <strong>make flashcards.&nbsp;</strong><span style="background-color: transparent;">This lets you control which SAT words you study and even randomizes them so that you don't accidentally memorize words in a predetermined order.</span></p>
+<p>We recommend using the <strong>waterfall method</strong>&nbsp;to study your flashcards.<strong>&nbsp;</strong><span style="background-color: transparent;">With this method, you'll get to see all the words in your deck, going over the most challenging words more often than the ones you already know or sort of know.</span></p>
+<p><span style="background-color: transparent;">Here's how to use the waterfall method:</span></p>
+<p><span style="background-color: transparent;"><img src="https://cdn2.hubspot.net/hub/360031/file-2231220415.jpg?width=726&amp;height=226&amp;name=file-2231220415.jpg" alt="body_vocab1.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="726" height="226" srcset="https://cdn2.hubspot.net/hub/360031/file-2231220415.jpg?width=363&amp;height=113&amp;name=file-2231220415.jpg 363w, https://cdn2.hubspot.net/hub/360031/file-2231220415.jpg?width=726&amp;height=226&amp;name=file-2231220415.jpg 726w, https://cdn2.hubspot.net/hub/360031/file-2231220415.jpg?width=1089&amp;height=339&amp;name=file-2231220415.jpg 1089w, https://cdn2.hubspot.net/hub/360031/file-2231220415.jpg?width=1452&amp;height=452&amp;name=file-2231220415.jpg 1452w, https://cdn2.hubspot.net/hub/360031/file-2231220415.jpg?width=1815&amp;height=565&amp;name=file-2231220415.jpg 1815w, https://cdn2.hubspot.net/hub/360031/file-2231220415.jpg?width=2178&amp;height=678&amp;name=file-2231220415.jpg 2178w" sizes="(max-width: 726px) 100vw, 726px"></span></p>
+<p><span style="background-color: transparent;">Once you’ve made your flashcards, split them up into decks (you can put whatever words you want in these decks) of about <strong>30-50 cards each.</strong> Choose one deck to be your <strong>Starting Stack.&nbsp;</strong></span></p>
+<p><span style="background-color: transparent;">Go through your Starting Stack, looking at each and every card. For the words you know, put them in a <strong>Know It</strong> pile. For the words you <em>don’t</em> know, put them in a separate <strong>Struggled</strong> pile as so:</span></p>
+<p><span style="background-color: transparent;"><img src="https://cdn2.hubspot.net/hub/360031/file-2231220455.jpg?width=707&amp;height=222&amp;name=file-2231220455.jpg" alt="body_vocab2.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="707" height="222" srcset="https://cdn2.hubspot.net/hub/360031/file-2231220455.jpg?width=354&amp;height=111&amp;name=file-2231220455.jpg 354w, https://cdn2.hubspot.net/hub/360031/file-2231220455.jpg?width=707&amp;height=222&amp;name=file-2231220455.jpg 707w, https://cdn2.hubspot.net/hub/360031/file-2231220455.jpg?width=1061&amp;height=333&amp;name=file-2231220455.jpg 1061w, https://cdn2.hubspot.net/hub/360031/file-2231220455.jpg?width=1414&amp;height=444&amp;name=file-2231220455.jpg 1414w, https://cdn2.hubspot.net/hub/360031/file-2231220455.jpg?width=1768&amp;height=555&amp;name=file-2231220455.jpg 1768w, https://cdn2.hubspot.net/hub/360031/file-2231220455.jpg?width=2121&amp;height=666&amp;name=file-2231220455.jpg 2121w" sizes="(max-width: 707px) 100vw, 707px"></span></p>
+<p><span style="background-color: transparent;">Now, pick up your Struggled pile and go through each card in it (leave your Know It pile where it is). Put the cards you know in a second Know It pile and the ones you don’t know in a Struggled pile.</span></p>
+<p><span style="background-color: transparent;">You should now have two Know It piles and one Struggled pile:</span></p>
+<p><span style="background-color: transparent;"><img src="https://cdn2.hubspot.net/hub/360031/file-2231220420.jpg?width=700&amp;height=217&amp;name=file-2231220420.jpg" alt="body_vocab3.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="700" height="217" srcset="https://cdn2.hubspot.net/hub/360031/file-2231220420.jpg?width=350&amp;height=109&amp;name=file-2231220420.jpg 350w, https://cdn2.hubspot.net/hub/360031/file-2231220420.jpg?width=700&amp;height=217&amp;name=file-2231220420.jpg 700w, https://cdn2.hubspot.net/hub/360031/file-2231220420.jpg?width=1050&amp;height=326&amp;name=file-2231220420.jpg 1050w, https://cdn2.hubspot.net/hub/360031/file-2231220420.jpg?width=1400&amp;height=434&amp;name=file-2231220420.jpg 1400w, https://cdn2.hubspot.net/hub/360031/file-2231220420.jpg?width=1750&amp;height=543&amp;name=file-2231220420.jpg 1750w, https://cdn2.hubspot.net/hub/360031/file-2231220420.jpg?width=2100&amp;height=651&amp;name=file-2231220420.jpg 2100w" sizes="(max-width: 700px) 100vw, 700px"></span></p>
+<p><span style="background-color: transparent;">Repeat this process of picking up your Struggled pile and going through each card until you’re left with about <strong>one to five cards in your Struggled pile:</strong></span></p>
+<p><span style="background-color: transparent;"><img src="https://cdn2.hubspot.net/hub/360031/file-2231220425.jpg?width=706&amp;height=218&amp;name=file-2231220425.jpg" alt="body_vocab4.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="706" height="218" srcset="https://cdn2.hubspot.net/hub/360031/file-2231220425.jpg?width=353&amp;height=109&amp;name=file-2231220425.jpg 353w, https://cdn2.hubspot.net/hub/360031/file-2231220425.jpg?width=706&amp;height=218&amp;name=file-2231220425.jpg 706w, https://cdn2.hubspot.net/hub/360031/file-2231220425.jpg?width=1059&amp;height=327&amp;name=file-2231220425.jpg 1059w, https://cdn2.hubspot.net/hub/360031/file-2231220425.jpg?width=1412&amp;height=436&amp;name=file-2231220425.jpg 1412w, https://cdn2.hubspot.net/hub/360031/file-2231220425.jpg?width=1765&amp;height=545&amp;name=file-2231220425.jpg 1765w, https://cdn2.hubspot.net/hub/360031/file-2231220425.jpg?width=2118&amp;height=654&amp;name=file-2231220425.jpg 2118w" sizes="(max-width: 706px) 100vw, 706px"></span></p>
+<p><span style="background-color: transparent;">By now you should know most, if not all, cards in your deck.&nbsp;</span><span style="background-color: transparent;">But it isn’t enough to just go through them once—<strong>you also have to work back up your “waterfall” of cards.</strong>&nbsp;</span></p>
+<p><span style="background-color: transparent;">To do this, combine your Struggled pile with your last Know It pile (the pile closest to the Struggled pile). T</span><span style="background-color: transparent;">his will be your <strong>Working</strong> pile. Go through all the cards in this pile. If there are any words you forgot, go through the entire pile again and again until you've learned <em>all</em> the definitions in it.</span></p>
+<p><span style="background-color: transparent;"><img src="https://cdn2.hubspot.net/hub/360031/file-2231220465.jpg?width=717&amp;height=284&amp;name=file-2231220465.jpg" alt="body_vocab5.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="717" height="284" srcset="https://cdn2.hubspot.net/hub/360031/file-2231220465.jpg?width=359&amp;height=142&amp;name=file-2231220465.jpg 359w, https://cdn2.hubspot.net/hub/360031/file-2231220465.jpg?width=717&amp;height=284&amp;name=file-2231220465.jpg 717w, https://cdn2.hubspot.net/hub/360031/file-2231220465.jpg?width=1076&amp;height=426&amp;name=file-2231220465.jpg 1076w, https://cdn2.hubspot.net/hub/360031/file-2231220465.jpg?width=1434&amp;height=568&amp;name=file-2231220465.jpg 1434w, https://cdn2.hubspot.net/hub/360031/file-2231220465.jpg?width=1793&amp;height=710&amp;name=file-2231220465.jpg 1793w, https://cdn2.hubspot.net/hub/360031/file-2231220465.jpg?width=2151&amp;height=852&amp;name=file-2231220465.jpg 2151w" sizes="(max-width: 717px) 100vw, 717px"></span></p>
+<p><span style="background-color: transparent;">Continue this pattern by combining your current Working pile with the next Know It pile. Go through all these cards until you know each one.</span></p>
+<p><span style="background-color: transparent;"><img src="https://cdn2.hubspot.net/hub/360031/file-2231220460.jpg?width=711&amp;height=297&amp;name=file-2231220460.jpg" alt="body_vocab6.jpg" width="711" height="297" srcset="https://cdn2.hubspot.net/hub/360031/file-2231220460.jpg?width=356&amp;height=149&amp;name=file-2231220460.jpg 356w, https://cdn2.hubspot.net/hub/360031/file-2231220460.jpg?width=711&amp;height=297&amp;name=file-2231220460.jpg 711w, https://cdn2.hubspot.net/hub/360031/file-2231220460.jpg?width=1067&amp;height=446&amp;name=file-2231220460.jpg 1067w, https://cdn2.hubspot.net/hub/360031/file-2231220460.jpg?width=1422&amp;height=594&amp;name=file-2231220460.jpg 1422w, https://cdn2.hubspot.net/hub/360031/file-2231220460.jpg?width=1778&amp;height=743&amp;name=file-2231220460.jpg 1778w, https://cdn2.hubspot.net/hub/360031/file-2231220460.jpg?width=2133&amp;height=891&amp;name=file-2231220460.jpg 2133w" sizes="(max-width: 711px) 100vw, 711px"></span></p>
+<p><span style="background-color: transparent;">At the end, you should have made your way all the back to your original Starting Stack. <strong>You now know all the SAT words and their meanings in your deck!&nbsp;</strong></span><span style="background-color: transparent;">Repeat this waterfall method with the other decks you make so that you can learn even more critical SAT vocab words.</span></p>
+<h3>&nbsp;</h3>
+<h3>#2: Focus On Words You Don’t Know</h3>
+<p>If you don’t have time to study the entire list above or only want to learn some SAT words, use our list to <strong>make a new vocab list containing <em>only</em> the words you don’t know. </strong>So i<span style="background-color: transparent;">f you know a word or are fairly sure you’ll be able to recognize it on test day, skip it and instead focus on&nbsp;</span><span style="background-color: transparent;">the words you’ll have the most trouble remembering.&nbsp;</span><span style="background-color: transparent;">Once you have your list, use the waterfall method to study it.</span></p>
+<p>If you’re not a fan of paper flashcards, you can opt for <strong>digital flashcards.</strong> <a href="https://apps.ankiweb.net/" target="_blank" rel="noopener">Anki</a> is a free software you can download and use to make your own flashcards. The program uses spaced-repetition software (SRS) to show you difficult cards more often than those you know (basically, a digital version of the waterfall method).</p>
+<p>&nbsp;</p>
+<h3>#3: Take Official SAT Practice Tests</h3>
+<p>Since the majority of the words in our list above come from&nbsp;<a href="/complete-official-sat-practice-tests-free-links" target="_blank" rel="noopener">official SAT practice tests</a>, once you’ve studied these SAT words, you can put your knowledge to the test by taking a practice test.&nbsp;<span style="background-color: transparent;">This lets&nbsp;</span><span style="background-color: transparent;">you see whether you truly know the meanings of the words and&nbsp;<strong>whether you’ll be able to get the right answers in the context of a full-length, timed test—just like the real SAT.</strong></span></p>
+<p>If you miss any questions because you forgot the meaning of a word, go back over our SAT vocab words list using your flashcards and the waterfall method.</p>
+<p>&nbsp;</p>
+<h2>The Best SAT Vocab Flashcards</h2>
+<p>If you plan to make your own SAT vocab flashcards from our list, you'll need&nbsp;at least 300 blank index cards and a system to keep them organized. These <a href="https://www.amazon.com/AmazonBasics-Heavy-Weight-3x5-Inch-300-Count/dp/B077K8JVW4/?tag=ps-ge5-20" rel="noopener" target="_blank">basic cards</a> are an affordable option that are <a href="https://www.amazon.com/AmazonBasics-Ruled-Assorted-3x5-Inch-300-Count/dp/B06XSXXKFZ/?tag=ps-ge5-20" rel="noopener" target="_blank">also available in&nbsp;fun colors</a>. You can keep them organized with plastic baggies or rubber bands, or you can get an <a href="https://www.amazon.com/dp/B00H3E9FNO/?tag=ps-ge5-20" rel="noopener" target="_blank">organizer</a>. Alternatively, try&nbsp;these<a href="https://www.amazon.com/Koogel-Multicolor-Scratch-Bookmark-Greeting/dp/B074VYYWNW/?tag=ps-ge5-20" rel="noopener" target="_blank"> easy-flip flashcards</a>&nbsp;that&nbsp;include binder clips.&nbsp;</p>
+<p>Though we strongly recommend making your own flashcards, you can also buy pre-made ones. There aren't a lot of options for the new SAT. We'd recommend going with&nbsp;Barron's&nbsp;<a href="https://www.amazon.com/1100-Words-Need-Know-Flashcards/dp/143807526X/?tag=ps-ge5-20" rel="noopener" target="_blank">1100 Words You Need to Know</a>, a series of exercises to master key words and&nbsp;idioms, or Manhattan's&nbsp;<a href="https://www.amazon.com/500-Advanced-Words-Vocabulary-Manhattan/dp/1935707884/?tag=ps-ge5-20">GRE flashcards</a> if you're looking for a challenge.&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Conclusion: The Importance of Studying SAT Vocabulary</h2>
+<p>Overall, vocabulary words don't play a huge part on the SAT. That said, you’ll definitely have some questions on both the Reading and Writing sections that test your knowledge of SAT words, so <strong>it’s important to study those most likely to appear on test day.</strong></p>
+<p>The best way to study SAT vocabulary is to make flashcards and use the waterfall method. This ensures you know all the words in your deck and aren’t glossing over any difficult ones.</p>
+<p>If you don’t want to make flashcards or don’t have time to study the whole list, however, it’s a good idea to pick out the words you don’t know and study just those. With these, you can either make a smaller deck of paper flashcards or opt for digital flashcards.</p>
+<p>No matter how you choose to study SAT vocab words, be sure to&nbsp;<strong>test out what you’ve learned in the context of full-length practice tests.</strong> Nearly all the words in our list above come from official SAT practice tests, so you’re guaranteed to come across them in some form!</p>
+<p>&nbsp;</p>
+<h2>What’s Next?</h2>
+<p><strong>Want more tips on how to study SAT vocabulary words?</strong> Check out <a href="/how-to-study-vocabulary-for-the-new-2016-sat" target="_blank" rel="noopener">our expert tips for memorizing SAT words fast</a>&nbsp;and learn <a href="/the-best-way-to-study-sat-vocab-words" target="_blank" rel="noopener">why the waterfall method works so well</a>.</p>
+<p><strong>Aiming for a high SAT Evidence-Based Reading and Writing score?</strong> Take a peek at our in-depth guides to <a href="/how-to-get-800-on-sat-reading-10-strategies-by-a-perfect-scorer" target="_blank" rel="noopener">getting a perfect Reading score</a> and <a href="/the-best-way-to-read-the-passage-in-sat-reading" target="_blank" rel="noopener">learning how to read SAT passages</a>.</p>
+<p>Taking the ACT instead? Then you'll need to know vocab for that test, too. <strong>Learn <a href="/act-vocabulary-words-you-must-know" target="_blank" rel="noopener">what words to expect on the ACT and how to study them</a>.</strong></p>
+<p>&nbsp;</p>
+<div style="background-color: #ffffcc; margin: 10px; padding: 10px;">
+<p><strong>Want to improve your SAT score by 160 points?</strong></p>
+<p>Check out our <a href="https://classes.prepscholar.com/1/" target="_blank" rel="noopener">best-in-class online SAT prep classes</a>. We guarantee <strong>your money back</strong> if you don't improve your SAT score by 160 points or more.</p>
+<p>Our classes are entirely online, and they're <a target="_blank" href="https://classes.prepscholar.com/our-expert-teachers-1/" rel="noopener">taught by SAT experts</a>. <strong>If you liked this article, you'll love our classes.</strong> Along with expert-led classes, you'll get personalized homework with thousands of practice problems organized by individual skills so you learn most effectively. We'll also give you a step-by-step, custom program to follow so you'll never be confused about what to study next.</p>
+<p><strong>Try it risk-free today:</strong></p>
+<p><!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-2bf868a5-3c9b-4b35-bf8a-78b84d7c255a"><span class="hs-cta-node hs-cta-2bf868a5-3c9b-4b35-bf8a-78b84d7c255a" id="hs-cta-2bf868a5-3c9b-4b35-bf8a-78b84d7c255a"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/360031/2bf868a5-3c9b-4b35-bf8a-78b84d7c255a" target="_blank"><img class="hs-cta-img" id="hs-cta-img-2bf868a5-3c9b-4b35-bf8a-78b84d7c255a" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/360031/2bf868a5-3c9b-4b35-bf8a-78b84d7c255a.png" alt="Improve Your SAT Score by 160+ Points, Guaranteed"></a></span><script charset="utf-8" src="/hs/cta/cta/current.js"></script><script type="text/javascript"> hbspt.cta._relativeUrls=true;hbspt.cta.load(360031, '2bf868a5-3c9b-4b35-bf8a-78b84d7c255a', {}); </script></span><!-- end HubSpot Call-to-Action Code --></p>
+</div>
+<p>&nbsp;</p></span>
+
+            
+            <strong>Have friends who also need help with test prep?</strong> Share this article!
+            <span id="hs_cos_wrapper_blog_social_sharing" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_blog_social_sharing" style="" data-hs-cos-general-type="widget" data-hs-cos-type="blog_social_sharing">
+<div class="hs-blog-social-share">
+    <ul class="hs-blog-social-share-list">
+        
+        <li class="hs-blog-social-share-item hs-blog-social-share-item-twitter">
+            <!-- Twitter social share -->
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-url="https://blog.prepscholar.com/sat-vocabulary-words" data-size="medium" data-text="262 SAT Vocab Words You Must Know">Tweet</a>
+        </li>
+        
+
+        
+        <li class="hs-blog-social-share-item hs-blog-social-share-item-linkedin">
+            <!-- LinkedIn social share -->
+            <script type="IN/Share" data-url="https://blog.prepscholar.com/sat-vocabulary-words" data-showzero="true" data-counter="right"></script>
+        </li>
+        
+
+        
+        <li class="hs-blog-social-share-item hs-blog-social-share-item-facebook">
+            <!-- Facebook share -->
+            <div class="fb-like" data-href="https://blog.prepscholar.com/sat-vocabulary-words" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true" data-width="120"></div>
+        </li>
+        
+    </ul>
+ </div>
+
+</span>
+            
+            
+            <div class="authorbio">
+            
+            
+                <div style="float:left">
+                    <img width="150" src="https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=150&amp;name=author_hannah.png" srcset="https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=75&amp;name=author_hannah.png 75w, https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=150&amp;name=author_hannah.png 150w, https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=225&amp;name=author_hannah.png 225w, https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=300&amp;name=author_hannah.png 300w, https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=375&amp;name=author_hannah.png 375w, https://blog.prepscholar.com/hs-fs/hubfs/author_hannah.png?width=450&amp;name=author_hannah.png 450w" sizes="(max-width: 150px) 100vw, 150px">
+                    <div style="text-align: center;margin-top: 8px;"><span style="font-size: 22px;font-weight: bold;" class="author-link">Hannah Muniz</span>                        
+                    </div>
+                </div>
+            
+            
+                <div style="padding-left:40px;float:left; width:70%">
+                    <div class="hs-author-label" style="font-size:20px;font-style:italic;color:#999;text-align: center ;padding-bottom:10px;">About the Author    
+                    </div>
+                    <p style="margin:0px"> Hannah received her MA in Japanese Studies from the University of Michigan and holds a bachelor's degree from the University of Southern California. From 2013 to 2015, she taught English in Japan via the JET Program. She is passionate about education, writing, and travel.</p>
+                </div>
+            
+                <div class="clearfix" style="width:90%">
+                </div>
+            </div>
+            
+            
+   
+   <br>
+   <br>
+<div class="promobox">
+  <div class="holder">
+    <div class="title-holder">
+      <strong class="big-text">Get Free Guides</strong>
+      <span class="txt">to Boost Your SAT/ACT</span>
+    </div>
+    <form class="exclusive-tip-form form">
+      <fieldset>
+    <label for="mail">Get <strong>FREE EXCLUSIVE</strong> insider tips on how to <strong>ACE THE SAT/ACT</strong>.</label>
+	<div id="hubspot-container2">
+	</div>
+	<span class="note">100% Privacy. No spam ever.</span>
+      </fieldset>
+    </form>
+  </div>
+</div>
+
+
+<script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
+<script>
+  hbspt.forms.create({
+  portalId: '360031',
+  formId: '2167ba30-e68e-4777-b88d-8bf3c84579af',
+  formInstanceId: '2',
+  submitButtonClass: 'btn-red-light btn',
+  target: '#hubspot-container2',
+  redirectUrl: 'http://ww2.prepscholar.com/blog-subscribe-thank-you',
+  css: '.post-bottom .hs-form.stacked label {display:none;} .post-bottom .hs-form.stacked .field div.input {padding-top: 55px; padding-left: 300px;} .post-bottom .hs-input {width: 220px} .post-bottom .btn-primary, .hs-button.primary {margin-top:0px; padding-left:350px} .post-bottom .hs-form-field {margin-bottom:5px}'
+  });
+  $(function(){
+      $(".exclusive-tip-form #hubspot-container2 label").hide();
+  });
+</script>
+
+
+
+                            
+                  
+        </div>
+
+    </div>
+</div>
+
+<script>
+function replace_tag(a, b){
+    $(a).each(function(index) {
+  var thisTD = this;
+  var newElement = $("<" + b +"></" + b + ">");
+  $.each(this.attributes, function(index) {
+    $(newElement).attr(thisTD.attributes[index].name, thisTD.attributes[index].value);
+  });
+  $(this).after(newElement).remove();
+});
+}
+
+$(function(){
+    replace_tag($(".posts-by-topic h3"), "h2");
+})
+</script></div>
+
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_151002392428637" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<h2>Ask a Question Below</h2><p>Have any questions about this article or other topics? Ask below and we'll reply!</p>
+<div class="span12 widget-span widget-type-blog_comments " style="" data-widget-type="blog_comments" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_blog_comments" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_blog_comments" style="" data-hs-cos-general-type="widget" data-hs-cos-type="blog_comments">
+<div class="section post-footer">
+    <div id="comments-listing" class="new-comments"></div>
+    
+      <div id="hs_form_target_82ada07b-68c8-4f0d-8710-bfe95376dc6c"></div>
+      
+      
+      
+    
+</div>
+
+</span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div id="sidebar" class="span4 widget-span widget-type-cell blog-sidebar" style="" data-widget-type="cell" data-x="8" data-w="4">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1587506864169160" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="row-fluid-wrapper row-depth-1 row-number-9 ">
+<div class="row-fluid ">
+<div class="promobox">
+  <div class="holder">
+    <div class="title-holder">
+      <span class="txt">Get Free Guides to Boost Your SAT/ACT Score</span>
+    </div>
+    <form class="exclusive-tip-form form">
+      <fieldset>
+    <label for="mail" style="font-size:90%;">Subscribe to our blog today!</label>
+	<div id="hubspot-container99">
+	</div>
+	<span class="note">100% Privacy. No spam!</span>
+      </fieldset></form>
+  </div>
+</div>
+</div>
+</div>
+<script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "360031",
+	formId: "974d38ff-dbac-407c-b5c7-6cdccb7a9efc",
+	formInstanceId: '99',
+	submitButtonClass: 'btn-red-light btn',
+	target: '#hubspot-container99',
+	redirectUrl: 'http://ww2.prepscholar.com/blog-subscribe-thank-you',
+	css: '.post-bottom .hs-form.stacked label {display:none;} .post-bottom .hs-form.stacked .field div.input {padding-top: 55px; padding-left: 300px;} .post-bottom .hs-input {width: 220px;} .post-bottom .btn-primary, .hs-button.primary {margin-top:0px; padding-left:350px} .post-bottom .hs-form-field {margin-bottom:5px} .hs-form-required {display: none;} label.hs-error-msg {display: none;}'
+	});
+</script>
+<br></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-8 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-google_search right-search" style="" data-widget-type="google_search" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14259345530585558" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_google_search" style="" data-hs-cos-general-type="widget" data-hs-cos-type="google_search">        <div id="hs-search-module" class="hs-search-module hs-search-module-1">
+            <form class="hs-form">
+                <div class="field" role="search">
+                    <label for="hs-search-1">Search the Blog</label>
+                    <div class="input">
+                        <input type="text" id="hs-search-1" class="hs-input" value="">
+                        <a class="hs-button primary">Search</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <script>
+    function hsOnReadyGoogleSearch_1() {
+      var url           = 'http://google.com/search?q=site:' + location.protocol + '//' + location.hostname + ' ';
+      var $searchModule = document.querySelector('.hs-search-module-1');
+      var $input        = $searchModule.querySelector('input');
+      var $button       = $searchModule.querySelector('.hs-button.primary');
+      if (false) {
+          $input.value = decodeURIComponent(location.pathname.split('/').join(' ').split('.').join(' ').split('-').join(' ').split('_').join(''));
+      }
+
+      $button.addEventListener('click', function(){
+          var newUrl = url + $input.value;
+          var win = window.open(newUrl, '_blank');
+          if (win) {
+              win.focus();
+          } else {
+              location.href = newUrl;
+          }
+      });
+      $input.addEventListener('keypress', function(e){
+          if (e.keyCode !== 13) return;
+          e.preventDefault();
+          $button.click();
+      });
+    }
+
+    if (document.readyState === "complete" ||
+    (document.readyState !== "loading" && !document.documentElement.doScroll)
+    ) {
+        hsOnReadyGoogleSearch_1();
+    } else {
+        document.addEventListener("DOMContentLoaded", hsOnReadyGoogleSearch_1);
+    }
+</script>
+
+</span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-9 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_143456795735021805" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><section class="widget">
+<header class="section-heading">
+<h2>Improve With Our Famous Guides</h2>
+</header>
+<div class="frame-box">
+<ul class="tabset">
+<li id="famous-guides-sat-prep" class="active"><a target="_blank" href="#sat-prep">SAT<br>Prep</a></li>
+<li id="famous-guides-act-prep"><a target="_blank" href="#act_prep">ACT<br>Prep</a></li>
+<li id="famous-guides-all-student"><a target="_blank" href="#all_student">For All<br> Students</a></li>
+</ul>
+<div class="tab-content">
+<div id="sat-prep" class="" style="display: block;">
+<div class="article-blog">
+<div class="blogs">
+<article>
+<a target="_blank" href="https://www.prepscholar.com/sat/l/tour_sat_guide" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-6-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="https://www.prepscholar.com/sat/l/tour_sat_guide">The 5 Strategies You Must Be Using to Improve 160+ SAT Points</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/how-to-get-a-perfect-sat-score-by-a-2400-sat-scorer" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-1-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/how-to-get-a-perfect-sat-score-by-a-2400-sat-scorer">How to Get a Perfect 1600, by a Perfect Scorer</a></p>
+</div>
+</article>
+</div>
+</div>
+<div class="article-blog">
+<h3><strong>Series: How to Get 800 on Each SAT Section:</strong></h3>
+<div class="blogs three-inline">
+<article>
+<a target="_blank" href="//blog.prepscholar.com/how-to-get-800-on-sat-math-by-a-perfect-scorer" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-16-thumb-sat.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/how-to-get-800-on-sat-math-by-a-perfect-scorer">Score 800 on SAT Math</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/how-to-get-800-on-sat-reading-10-strategies-by-a-perfect-scorer" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-17-thumb-sat.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/how-to-get-800-on-sat-reading-10-strategies-by-a-perfect-scorer">Score 800 on SAT Reading</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/how-to-get-800-on-sat-writing-11-strategies-from-a-perfect-scorer" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-18-thumb-sat.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/how-to-get-800-on-sat-writing-11-strategies-from-a-perfect-scorer">Score 800 on SAT Writing</a></p>
+</div>
+</article>
+</div>
+</div>
+<div class="article-blog">
+<h3><strong>Series: How to Get to 600 on Each SAT Section:</strong></h3>
+<div class="blogs three-inline">
+<article>
+<a target="_blank" href="//blog.prepscholar.com/how-to-improve-low-sat-math-scores-and-get-to-a-600" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-20-thumb-sat.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/how-to-improve-low-sat-math-scores-and-get-to-a-600">Score 600 on SAT Math</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/how-to-improve-your-low-sat-reading-score-6-strategies" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-21-thumb-sat.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/how-to-improve-your-low-sat-reading-score-6-strategies">Score 600 on SAT Reading</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/how-to-improve-your-sat-writing-score-8-key-strategies" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-22-thumb-sat.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/how-to-improve-your-sat-writing-score-8-key-strategies">Score 600 on SAT Writing</a></p>
+</div>
+</article>
+</div>
+</div>
+<div class="article-blog">
+<div class="blogs">
+<article>
+<a target="_blank" href="//blog.prepscholar.com/complete-official-sat-practice-tests-free-links" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-15-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/complete-official-sat-practice-tests-free-links">Free Complete Official SAT Practice Tests</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/what-is-a-good-sat-score-a-bad-sat-score-an-excellent-sat-score" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-2-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/what-is-a-good-sat-score-a-bad-sat-score-an-excellent-sat-score">What SAT Target Score Should You Be Aiming For?</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/sat-essay-tips-15-ways-to-improve-your-writing-score" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-8-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/sat-essay-tips-15-ways-to-improve-your-writing-score">15 Strategies to Improve Your SAT Essay</a></p>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div id="act_prep" class="js-tab-hidden" style="display: none; width: 639px;">
+<div class="article-blog">
+<div class="blogs">
+<article>
+<a target="_blank" href="https://www.prepscholar.com/act/l/tour_sat_guide" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-7-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="https://www.prepscholar.com/act/l/tour_sat_guide">The 5 Strategies You Must Be Using to Improve 4+ ACT Points</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/how-to-get-a-perfect-act-score-by-a-36-full-scorer" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-3-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/how-to-get-a-perfect-act-score-by-a-36-full-scorer">How to Get a Perfect 36 ACT, by a Perfect Scorer</a></p>
+</div>
+</article>
+</div>
+</div>
+<div class="article-blog">
+<h3><strong>Series: How to Get 36 on Each ACT Section:</strong></h3>
+<div class="blogs two-inline">
+<article>
+<a target="_blank" href="//blog.prepscholar.com/how-to-get-36-on-act-english-9-strategies-from-a-perfect-scorer" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-18-thumb-act.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/how-to-get-36-on-act-english-9-strategies-from-a-perfect-scorer">36 on ACT English</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/how-to-get-36-on-act-math-8-strategies-by-a-perfect-scorer" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-16-thumb-act.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/how-to-get-36-on-act-math-8-strategies-by-a-perfect-scorer">36 on ACT Math</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/how-to-get-36-on-act-reading-11-strategies-from-a-perfect-scorer" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-17-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/how-to-get-36-on-act-reading-11-strategies-from-a-perfect-scorer">36 on ACT Reading</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/the-ultimate-study-guide-for-act-science" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-19-thumb-act.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/the-ultimate-study-guide-for-act-science">36 on ACT Science</a></p>
+</div>
+</article>
+</div>
+</div>
+<div class="article-blog">
+<h3><strong>Series: How to Get to 24 on Each ACT Section:</strong></h3>
+<div class="blogs two-inline">
+<article>
+<a target="_blank" href="https://blog.prepscholar.com/how-to-improve-your-act-english-score-tips" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-22-thumb-act.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="https://blog.prepscholar.com/how-to-improve-your-act-english-score-tips">24 on ACT English</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="https://blog.prepscholar.com/how-to-improve-low-act-math-scores-tips-from-a-perfect-scorer" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-20-thumb-act.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="https://blog.prepscholar.com/how-to-improve-low-act-math-scores-tips-from-a-perfect-scorer">24 on ACT Math</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="https://blog.prepscholar.com/how-to-improve-your-act-reading-score-tips" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-21-thumb-act.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="https://blog.prepscholar.com/how-to-improve-your-act-reading-score-tips">24 on ACT Reading</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="https://blog.prepscholar.com/how-to-improve-your-act-science-score-tips-from-perfect-scorer" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-23-thumb-act.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="https://blog.prepscholar.com/how-to-improve-your-act-science-score-tips-from-perfect-scorer">24 on ACT Science</a></p>
+</div>
+</article>
+</div>
+</div>
+<div class="article-blog">
+<div class="blogs">
+<article>
+<a target="_blank" href="//blog.prepscholar.com/what-is-a-good-act-score-a-bad-act-score-an-excellent-act-score" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-4-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/what-is-a-good-act-score-a-bad-act-score-an-excellent-act-score">What ACT target score should you be aiming for?</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/act-vocabulary-words-you-must-know" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-12-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/act-vocabulary-words-you-must-know">ACT Vocabulary You Must Know</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/act-writing-tips-15-strategies-to-raise-your-essay-score" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-26-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/act-writing-tips-15-strategies-to-raise-your-essay-score">ACT Writing: 15 Tips to Raise Your Essay Score</a></p>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div id="all_student" class="js-tab-hidden" style="display: none; width: 598px;">
+<div class="article-blog">
+<div class="blogs">
+<article>
+<a target="_blank" href="//blog.prepscholar.com/how-to-get-into-harvard-and-the-ivy-league-by-a-harvard-alum" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-5-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/how-to-get-into-harvard-and-the-ivy-league-by-a-harvard-alum">How to Get Into Harvard and the Ivy League</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="https://blog.prepscholar.com/how-to-get-a-4-0-gpa-and-get-better-grades-by-a-harvard-alum" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-24-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="https://blog.prepscholar.com/how-to-get-a-4-0-gpa-and-get-better-grades-by-a-harvard-alum">How to Get a Perfect 4.0 GPA</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="https://blog.prepscholar.com/how-to-write-a-college-essay" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-25-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="https://blog.prepscholar.com/how-to-write-a-college-essay">How to Write an Amazing College Essay</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="https://blog.prepscholar.com/what-do-colleges-look-for" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-13-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="https://blog.prepscholar.com/what-do-colleges-look-for">What Exactly Are Colleges Looking For?</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/is-the-act-easier-than-the-sat" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-10-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/is-the-act-easier-than-the-sat">Is the ACT easier than the SAT? A Comprehensive Guide</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/should-you-retake-the-sat-or-act-3-step-process" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-11-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/should-you-retake-the-sat-or-act-3-step-process">Should you retake your SAT or ACT?</a></p>
+</div>
+</article>
+<article>
+<a target="_blank" href="//blog.prepscholar.com/when-should-you-take-the-sat-or-act-best-test-dates" class="image-wrap"><img src="http://www.prepscholar.com/staticfiles/redesign/images/illus-14-full.jpg" alt="image description"></a>
+<div class="text-wrap">
+<p><a target="_blank" href="//blog.prepscholar.com/when-should-you-take-the-sat-or-act-best-test-dates">When should you take the SAT or ACT?</a></p>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-10 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_143456946922027601" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><section class="widget advertisement-widget">
+<div id="michael-improved-by-holder" class="holder" style="background: #3574e3 url(http://www.prepscholar.com/staticfiles/redesign/images/bg-1.jpg) no-repeat 0 100%;">
+<strong class="heading-text">Michael improved by</strong>
+<strong class="big-text">370 POINTS!</strong>
+<div class="frame">
+<a target="blank" href="https://www.prepscholar.com/sat/s/results2" class="btn btn-red-light">Find Out How</a>
+</div>
+</div>
+</section></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-11 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1541617884672200" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><section class="widget social-widget">
+<header class="section-heading">
+<h2>Stay Informed</h2>
+</header>
+<div class="frame-box stay-inform-holder">
+<ul class="social-network">
+<li><a target="blank" href="https://www.facebook.com/prepscholar" class="facebook"><img src="https://blog.prepscholar.com/hs-fs/hubfs/facebook-64.png?width=40&amp;height=40&amp;name=facebook-64.png" height="40" width="40" style="margin:10px 0px 0px 10px" srcset="https://blog.prepscholar.com/hs-fs/hubfs/facebook-64.png?width=20&amp;height=20&amp;name=facebook-64.png 20w, https://blog.prepscholar.com/hs-fs/hubfs/facebook-64.png?width=40&amp;height=40&amp;name=facebook-64.png 40w, https://blog.prepscholar.com/hs-fs/hubfs/facebook-64.png?width=60&amp;height=60&amp;name=facebook-64.png 60w, https://blog.prepscholar.com/hs-fs/hubfs/facebook-64.png?width=80&amp;height=80&amp;name=facebook-64.png 80w, https://blog.prepscholar.com/hs-fs/hubfs/facebook-64.png?width=100&amp;height=100&amp;name=facebook-64.png 100w, https://blog.prepscholar.com/hs-fs/hubfs/facebook-64.png?width=120&amp;height=120&amp;name=facebook-64.png 120w" sizes="(max-width: 40px) 100vw, 40px"></a></li>
+<li><a target="blank" href="https://twitter.com/intent/follow?region=follow_link&amp;screen_name=PrepScholar&amp;tw_p=followbutton" class="twitter"><img src="https://blog.prepscholar.com/hs-fs/hubfs/twitter-64.png?width=35&amp;height=35&amp;name=twitter-64.png" height="35" width="35" style="margin: 8px 0px 0px 8px" srcset="https://blog.prepscholar.com/hs-fs/hubfs/twitter-64.png?width=18&amp;height=18&amp;name=twitter-64.png 18w, https://blog.prepscholar.com/hs-fs/hubfs/twitter-64.png?width=35&amp;height=35&amp;name=twitter-64.png 35w, https://blog.prepscholar.com/hs-fs/hubfs/twitter-64.png?width=53&amp;height=53&amp;name=twitter-64.png 53w, https://blog.prepscholar.com/hs-fs/hubfs/twitter-64.png?width=70&amp;height=70&amp;name=twitter-64.png 70w, https://blog.prepscholar.com/hs-fs/hubfs/twitter-64.png?width=88&amp;height=88&amp;name=twitter-64.png 88w, https://blog.prepscholar.com/hs-fs/hubfs/twitter-64.png?width=105&amp;height=105&amp;name=twitter-64.png 105w" sizes="(max-width: 35px) 100vw, 35px"></a></li>
+<li><a target="blank" href="https://plus.google.com/112548542900598134084/about" class="google-plus"><img src="https://blog.prepscholar.com/hs-fs/hubfs/google-plus-64.png?width=35&amp;height=35&amp;name=google-plus-64.png" height="35" width="35" style="margin: 8px 0px 0px 8px" srcset="https://blog.prepscholar.com/hs-fs/hubfs/google-plus-64.png?width=18&amp;height=18&amp;name=google-plus-64.png 18w, https://blog.prepscholar.com/hs-fs/hubfs/google-plus-64.png?width=35&amp;height=35&amp;name=google-plus-64.png 35w, https://blog.prepscholar.com/hs-fs/hubfs/google-plus-64.png?width=53&amp;height=53&amp;name=google-plus-64.png 53w, https://blog.prepscholar.com/hs-fs/hubfs/google-plus-64.png?width=70&amp;height=70&amp;name=google-plus-64.png 70w, https://blog.prepscholar.com/hs-fs/hubfs/google-plus-64.png?width=88&amp;height=88&amp;name=google-plus-64.png 88w, https://blog.prepscholar.com/hs-fs/hubfs/google-plus-64.png?width=105&amp;height=105&amp;name=google-plus-64.png 105w" sizes="(max-width: 35px) 100vw, 35px"></a></li>
+</ul>
+<p>Get the latest articles and test prep tips!</p>
+</div>
+</section></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-12 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_150005706372535" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2>Looking for Graduate School Test Prep?</h2>
+<p>Check out our top-rated graduate blogs here:</p>
+<p><a href="https://www.prepscholar.com/gre/blog/" target="_blank">GRE Online Prep Blog</a></p>
+<p><a href="https://www.prepscholar.com/gmat/blog/" target="_blank">GMAT Online Prep Blog</a></p>
+<p><a href="https://www.prepscholar.com/toefl/blog/" target="_blank">TOEFL Online Prep Blog</a></p>
+<p>&nbsp;</p></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-13 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1587506915133184" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="free-sat-tips" style="z-index: auto; position: static; top: auto;" class="">
+<div style="position:relative">
+<section class="widget tip-widget">
+  <div class="free-tip">
+    <header class="title-holder">
+      <strong class="big-text">Free<br>SAT/ACT Tips</strong>
+      <span class="txt">to Boost Your Score</span>
+    </header>
+    <form class="exclusive-tip-form form">
+      <fieldset>
+	<label for="mail-two">Get <strong>EXCLUSIVE</strong> insider tips on how to <strong>ACE THE SAT and ACT</strong> for <strong>FREE!</strong></label>
+	  <div id="hubspot-container13">
+	  </div>
+	<span class="note">100% Privacy. No spam ever.</span>
+      </fieldset>
+    </form>
+    <blockquote class="testimonial">
+      <cite class="alignright">
+	<img src="https://www.prepscholar.com/staticfiles/redesign/images/img07.jpg" alt="Holly R.">
+	Holly R.
+      </cite>
+      <q>"I am absolutely overjoyed and cannot thank you enough for helping me!”</q>
+    </blockquote>
+  </div>
+</section>
+</div>
+</div>
+
+<script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "360031",
+	formId: "974d38ff-dbac-407c-b5c7-6cdccb7a9efc",
+	formInstanceId: '13',
+	submitButtonClass: 'btn-red-light btn',
+	target: '#hubspot-container13',
+	redirectUrl: 'http://ww2.prepscholar.com/blog-subscribe-thank-you',
+	css: '.post-bottom .hs-form.stacked label {display:none;} .post-bottom .hs-form.stacked .field div.input {padding-top: 55px; padding-left: 300px;} .post-bottom .hs-input {width: 220px} .post-bottom .btn-primary, .hs-button.primary {margin-top:0px; padding-left:350px} .post-bottom .hs-form-field {margin-bottom:5px} .hs-form-required {display: none;} label.hs-error-msg {display: none;}'
+	});
+</script>
+
+<script>
+(function(a){a.isScrollToFixed=function(b){return !!a(b).data("ScrollToFixed")};a.ScrollToFixed=function(d,i){var m=this;m.$el=a(d);m.el=d;m.$el.data("ScrollToFixed",m);var c=false;var H=m.$el;var I;var F;var k;var e;var z;var E=0;var r=0;var j=-1;var f=-1;var u=null;var A;var g;function v(){H.trigger("preUnfixed.ScrollToFixed");l();H.trigger("unfixed.ScrollToFixed");f=-1;E=H.offset().top;r=H.offset().left;if(m.options.offsets){r+=(H.offset().left-H.position().left)}if(j==-1){j=r}I=H.css("position");c=true;if(m.options.bottom!=-1){H.trigger("preFixed.ScrollToFixed");x();H.trigger("fixed.ScrollToFixed")}}function o(){var J=m.options.limit;if(!J){return 0}if(typeof(J)==="function"){return J.apply(H)}return J}function q(){return I==="fixed"}function y(){return I==="absolute"}function h(){return !(q()||y())}function x(){if(!q()){var J=H[0].getBoundingClientRect();u.css({display:H.css("display"),width:J.width,height:J.height,"float":H.css("float")});cssOptions={"z-index":m.options.zIndex,position:"fixed",top:m.options.bottom==-1?t():"",bottom:m.options.bottom==-1?"":m.options.bottom,"margin-left":"0px"};if(!m.options.dontSetWidth){cssOptions.width=H.css("width")}H.css(cssOptions);H.addClass(m.options.baseClassName);if(m.options.className){H.addClass(m.options.className)}I="fixed"}}function b(){var K=o();var J=r;if(m.options.removeOffsets){J="";K=K-E}cssOptions={position:"absolute",top:K,left:J,"margin-left":"0px",bottom:""};if(!m.options.dontSetWidth){cssOptions.width=H.css("width")}H.css(cssOptions);I="absolute"}function l(){if(!h()){f=-1;u.css("display","none");H.css({"z-index":z,width:"",position:F,left:"",top:e,"margin-left":""});H.removeClass("scroll-to-fixed-fixed");if(m.options.className){H.removeClass(m.options.className)}I=null}}function w(J){if(J!=f){H.css("left",r-J);f=J}}function t(){var J=m.options.marginTop;if(!J){return 0}if(typeof(J)==="function"){return J.apply(H)}return J}function B(){if(!a.isScrollToFixed(H)||H.is(":hidden")){return}var M=c;var L=h();if(!c){v()}else{if(h()){E=H.offset().top;r=H.offset().left}}var J=a(window).scrollLeft();var N=a(window).scrollTop();var K=o();if(m.options.minWidth&&a(window).width()<m.options.minWidth){if(!h()||!M){p();H.trigger("preUnfixed.ScrollToFixed");l();H.trigger("unfixed.ScrollToFixed")}}else{if(m.options.maxWidth&&a(window).width()>m.options.maxWidth){if(!h()||!M){p();H.trigger("preUnfixed.ScrollToFixed");l();H.trigger("unfixed.ScrollToFixed")}}else{if(m.options.bottom==-1){if(K>0&&N>=K-t()){if(!L&&(!y()||!M)){p();H.trigger("preAbsolute.ScrollToFixed");b();H.trigger("unfixed.ScrollToFixed")}}else{if(N>=E-t()){if(!q()||!M){p();H.trigger("preFixed.ScrollToFixed");x();f=-1;H.trigger("fixed.ScrollToFixed")}w(J)}else{if(!h()||!M){p();H.trigger("preUnfixed.ScrollToFixed");l();H.trigger("unfixed.ScrollToFixed")}}}}else{if(K>0){if(N+a(window).height()-H.outerHeight(true)>=K-(t()||-n())){if(q()){p();H.trigger("preUnfixed.ScrollToFixed");if(F==="absolute"){b()}else{l()}H.trigger("unfixed.ScrollToFixed")}}else{if(!q()){p();H.trigger("preFixed.ScrollToFixed");x()}w(J);H.trigger("fixed.ScrollToFixed")}}else{w(J)}}}}}function n(){if(!m.options.bottom){return 0}return m.options.bottom}function p(){var J=H.css("position");if(J=="absolute"){H.trigger("postAbsolute.ScrollToFixed")}else{if(J=="fixed"){H.trigger("postFixed.ScrollToFixed")}else{H.trigger("postUnfixed.ScrollToFixed")}}}var D=function(J){if(H.is(":visible")){c=false;B()}};var G=function(J){(!!window.requestAnimationFrame)?requestAnimationFrame(B):B()};var C=function(){var K=document.body;if(document.createElement&&K&&K.appendChild&&K.removeChild){var M=document.createElement("div");if(!M.getBoundingClientRect){return null}M.innerHTML="x";M.style.cssText="position:fixed;top:100px;";K.appendChild(M);var N=K.style.height,O=K.scrollTop;K.style.height="3000px";K.scrollTop=500;var J=M.getBoundingClientRect().top;K.style.height=N;var L=(J===100);K.removeChild(M);K.scrollTop=O;return L}return null};var s=function(J){J=J||window.event;if(J.preventDefault){J.preventDefault()}J.returnValue=false};m.init=function(){m.options=a.extend({},a.ScrollToFixed.defaultOptions,i);z=H.css("z-index");m.$el.css("z-index",m.options.zIndex);u=a("<div />");I=H.css("position");F=H.css("position");k=H.css("float");e=H.css("top");if(h()){m.$el.after(u)}a(window).bind("resize.ScrollToFixed",D);a(window).bind("scroll.ScrollToFixed",G);if("ontouchmove" in window){a(window).bind("touchmove.ScrollToFixed",B)}if(m.options.preFixed){H.bind("preFixed.ScrollToFixed",m.options.preFixed)}if(m.options.postFixed){H.bind("postFixed.ScrollToFixed",m.options.postFixed)}if(m.options.preUnfixed){H.bind("preUnfixed.ScrollToFixed",m.options.preUnfixed)}if(m.options.postUnfixed){H.bind("postUnfixed.ScrollToFixed",m.options.postUnfixed)}if(m.options.preAbsolute){H.bind("preAbsolute.ScrollToFixed",m.options.preAbsolute)}if(m.options.postAbsolute){H.bind("postAbsolute.ScrollToFixed",m.options.postAbsolute)}if(m.options.fixed){H.bind("fixed.ScrollToFixed",m.options.fixed)}if(m.options.unfixed){H.bind("unfixed.ScrollToFixed",m.options.unfixed)}if(m.options.spacerClass){u.addClass(m.options.spacerClass)}H.bind("resize.ScrollToFixed",function(){u.height(H.height())});H.bind("scroll.ScrollToFixed",function(){H.trigger("preUnfixed.ScrollToFixed");l();H.trigger("unfixed.ScrollToFixed");B()});H.bind("detach.ScrollToFixed",function(J){s(J);H.trigger("preUnfixed.ScrollToFixed");l();H.trigger("unfixed.ScrollToFixed");a(window).unbind("resize.ScrollToFixed",D);a(window).unbind("scroll.ScrollToFixed",G);H.unbind(".ScrollToFixed");u.remove();m.$el.removeData("ScrollToFixed")});D()};m.init()};a.ScrollToFixed.defaultOptions={marginTop:0,limit:0,bottom:-1,zIndex:1000,baseClassName:"scroll-to-fixed-fixed"};a.fn.scrollToFixed=function(b){return this.each(function(){(new a.ScrollToFixed(this,b))})}})(jQuery);
+
+$(document).ready(function() {
+  if ($(window).width() >= 1024) { 
+    $('#free-sat-tips').scrollToFixed();
+  }
+});
+</script>
+
+<br></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</section></main>
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end body -->
+</div><!--end body wrapper -->
+
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_jinja " style="" data-widget-type="raw_jinja" data-x="0" data-w="12">
+<footer id="footer">
+            <nav class="nav">
+          <ul>
+            <li><a href="https://www.prepscholar.com/sat/s/">Home</a></li>
+            <li><a href="https://www.prepscholar.com/sat/s/who-we-are">Who We Are</a></li>
+            <li><a href="https://www.prepscholar.com/sat/s/how-it-works2">How It Works</a></li>
+            <li><a href="https://www.prepscholar.com/sat/s/results2">Results</a></li>
+            <li><a href="https://www.prepscholar.com/sat/s/pricing">Pricing</a></li>
+            <li><a href="https://www.prepscholartutors.com/">Tutoring</a></li>
+            <li><a href="https://www.prepscholar.com/sat/s/groups">Groups</a></li>
+            <li><a href="https://www.prepscholar.com/sat/s/sample-lesson">Sample Lesson</a></li>
+          </ul>
+          <ul class="add">
+            <li><a href="https://www.prepscholar.com/sat/s/contact">Help</a></li>
+            <li><a href="https://www.prepscholar.com/sat/s/contact">Become an Instructor</a></li>
+            <li><a href="https://blog.prepscholar.com/">SAT / ACT Online Prep Blog</a></li>
+            <li><a href="https://www.prepscholar.com/gre/blog/">GRE Online Prep Blog</a></li>
+            <li><a href="https://www.prepscholar.com/gmat/blog/">GMAT Online Prep Blog</a></li>
+            <li><a href="https://www.prepscholar.com/toefl/blog/">TOEFL Online Prep Blog</a></li>
+          </ul>
+          <div class="logo-area">
+            <strong class="logo"><a href="https://www.prepscholar.com"><img src="https://www.prepscholar.com/website-static/img/logo-white.svg" alt="image description"></a></strong>
+            <span class="txt">Questions?<br><a href="mailto:support@prepscholar.com">Email us</a> or call us at <a href="tel:1866811-5546" class="tel-link">1 (866) 811-5546</a></span>
+          </div>
+        </nav>
+        <div class="footer-bottom">
+          <div class="col">
+            <p>© PrepScholar 2013-2018. All rights reserved</p>
+            <nav class="copyright-links">
+              <ul>
+                <li><a href="https://www.prepscholar.com/sat/s/terms">Terms of Service</a></li>
+                <li><a href="https://www.prepscholar.com/sat/s/privacy">Privacy Policy</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="note-text">
+            <p>SAT® is a registered trademark of the College Entrance Examination Board<sup>TM</sup>. The College Entrance Examination Board<sup>TM</sup> does not endorse, nor is it affiliated in any way with the owner or any content of this site.</p>
+          </div>
+        </div>
+    </footer></div><!--end widget-span -->
+
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
+
+    
+<script type="text/javascript" src="/hs/hsstatic/HubspotToolsMenu/static-1.68/js/index.js"></script>
+<script>
+(function () {
+    window.addEventListener('load', function () {
+        setTimeout(function () {
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/_hcms/perf', true /*async*/);
+            xhr.setRequestHeader("Content-type", "application/json");
+            xhr.onreadystatechange = function () {
+                // do nothing.
+            };
+            var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+            function populateNetworkInfo(name, connection, info) {
+                if (name in connection) {
+                    info[name] = connection[name];
+                }
+            }
+            var networkInfo = {};
+            if (connection) {
+                ['type', 'effectiveType', 'downlink', 'rtt'].forEach(function(name) {
+                    populateNetworkInfo(name, connection, networkInfo);
+                });
+            }
+            var perfData = {
+                url: location.href,
+                portal: 360031,
+                content: 5494001362,
+                group: -1,
+                connection: networkInfo,
+                timing: performance.timing
+            };
+            xhr.send(JSON.stringify(perfData));
+        }, 3000);  // Execute this 3 seconds after onload.
+    });
+})();
+</script>
+
+<script src="/hs/hsstatic/AsyncSupport/static-1.70/js/comment_listing_asset.js"></script>
+<script>
+  function hsOnReadyPopulateCommentsFeed() {
+    var options = {
+      commentsUrl: "https://api.hubapi.com/comments/v3/comments/thread/public?portalId=360031&offset=0&limit=1000&contentId=5494001362&collectionId=469944059",
+      maxThreadDepth: 3,
+      showForm: true,
+      
+      target: "hs_form_target_82ada07b-68c8-4f0d-8710-bfe95376dc6c"
+    };
+    window.hsPopulateCommentsFeed(options);
+  }
+
+  if (document.readyState === "complete" ||
+      (document.readyState !== "loading" && !document.documentElement.doScroll)
+  ) {
+    hsOnReadyPopulateCommentsFeed();
+  } else {
+    document.addEventListener("DOMContentLoaded", hsOnReadyPopulateCommentsFeed);
+  }
+
+</script>
+
+
+          <!--[if lte IE 8]>
+          <script charset="utf-8" src="https://js.hsforms.net/forms/v2-legacy.js"></script>
+          <![endif]-->
+      
+<script src="/_hcms/forms/v2.js"></script>
+
+        <script>
+            hbspt.forms.create({
+                formsBaseUrl: '/_hcms/forms/',
+                portalId: '360031',
+                formId: '82ada07b-68c8-4f0d-8710-bfe95376dc6c',
+                pageId: '5494001362',
+                pageName: "262 SAT Vocab Words You Must Know",
+                contentType: 'blog-post',
+                
+                
+                css: '',
+                target: "#hs_form_target_82ada07b-68c8-4f0d-8710-bfe95376dc6c",
+                type: 'BLOG_COMMENT',
+                
+                submitButtonClass: 'hs-button primary',
+                formInstanceId: '1',
+                getExtraMetaDataBeforeSubmit: window.hsPopulateCommentFormGetExtraMetaDataBeforeSubmit
+            });
+
+            window.addEventListener('message', function(event) {
+              var origin = event.origin; var data = event.data;
+              if ((origin != null && (origin === 'null' || document.location.href.toLowerCase().indexOf(origin.toLowerCase()) === 0)) && data !== null && data.type === 'hsFormCallback' && data.id == '82ada07b-68c8-4f0d-8710-bfe95376dc6c') {
+                if (data.eventName === 'onFormReady') {
+                  window.hsPopulateCommentFormOnFormReady({
+                    successMessage: "Your comment has been received. We\'ll answer it soon!",
+                    target: "#hs_form_target_82ada07b-68c8-4f0d-8710-bfe95376dc6c"
+                  });
+                } else if (data.eventName === 'onFormSubmitted') {
+                  window.hsPopulateCommentFormOnFormSubmitted();
+                }
+              }
+            });
+        </script>
+      
+<script>
+if (typeof hsVars !== 'undefined') { hsVars['language'] = 'en-us'; }
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.16/bundles/project.js"></script>
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "blog-post"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/blog.prepscholar.com\/sat-vocabulary-words"]);
+_hsq.push(["setPageId", "5494001362"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 5494001362,
+    "legacyPageId": "5494001362",
+    "contentFolderId": null,
+    "contentGroupId": 469944059,
+    "abTestId": null,
+    "languageVariantId": 5494001362,
+    "languageCode": "en-us",
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/360031.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    ticks: 1594582048353,
+    page_id: 5494001362,
+
+    content_group_id: 469944059,
+    portal_id: 360031,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "blog-post",
+    category_id: 3,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+
+<!--— tag manager causes problems for survey —-->
+
+  <!-- start google tag manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-59Q7DS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-59Q7DS');</script>
+  <!-- end google tag manager -->
+
+<script src="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/699609746/1569838659085/Coded_files/Custom/page/PrepScholar-theme/PrepScholar-main.js"></script> 
+<script src="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/3029143813/1569838655649/Coded_files/Custom/page/PrepScholar-theme/Jquery.main.js"></script>
+<script src="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/6431330497/1588355369009/Custom/page/PrepScholar-theme/style_as_admissions.js"></script>
+<script src="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/4667125723/1583522060491/Coded_files/Custom/page/PrepScholar-theme/Adsense-injector.min.js"></script>
+<script src="https://blog.prepscholar.com/hs-fs/hub/360031/hub_generated/template_assets/7827746046/1569838659393/Custom/page/PrepScholar-theme/reduce_marketing.js"></script>
+<script type="text/javascript" src="https://a.opmnstr.com/app/js/api.min.js" data-account="4543" data-user="23642" async></script>
+<div id="fb-root"></div>
+ <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&status=0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+ <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+ 
+
+
+    
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+
+
+<!-- end coded_template: id:2972649277 path:generated_layouts/2972649267.html -->
+</body></html>
