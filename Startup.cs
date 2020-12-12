@@ -12,6 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.FileProviders;
 using System.IO;
 using Data;
+using System.Net.Http;
 
 namespace Blazorvocabulary
 {
@@ -31,8 +32,22 @@ namespace Blazorvocabulary
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton(new FileContent());
- 
-        }
+/*             services.AddTransient<IRestDataService, DataService>();
+            services.AddHttpClient<DataService>(); */
+        services.AddHttpClient<DataService>()
+    .ConfigureHttpMessageHandlerBuilder(builder =>
+    {
+        builder.PrimaryHandler = new HttpClientHandler
+        {
+            ServerCertificateCustomValidationCallback = (m, c, ch, e) => true
+        };
+    }); 
+
+
+
+/*     services.AddHttpClient<DataService>( c =>{
+}).ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler{ServerCertificateCustomValidationCallback = (m, c, ch, e) => true}); */
+          }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

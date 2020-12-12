@@ -4,6 +4,9 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using AngleSharp;
 using AngleSharp.Dom;
+using Collins;
+using System;
+
 
 namespace Data
 {
@@ -13,55 +16,138 @@ namespace Data
         public string Word { get; init; }
         public string Translation { get; init; }
 
-        public string Example { get; init; }
+        public string[] Examples { get; init; }
 
     }
 
-    public class FileContent
 
+    
+
+
+    
+
+    public class LoadTextFile
     {
 
-        FileInfo file;
-        public string FileText { get; set; }
-        private IHtmlCollection<IElement> TrTags;
+        string path = @"C:\Users\Owner\Desktop\oxford list.txt";
+        private string textFile;
 
-        public List<TransLate> TranslateList { get; set; } = new List<TransLate>();
+        private string[] fileSplitArray;
+
+        public List<EnglishTranslation> EnglishTranslationList = new List<EnglishTranslation>();
+        public LoadTextFile()
+        {
+            FileInfo file = new FileInfo(path);
+            using StreamReader stream = new StreamReader(file.OpenRead());
+            textFile = stream.ReadToEnd();
+            fileSplitArray = textFile.Split("-----");
+            foreach (var item in fileSplitArray)
+            {
+
+                EnglishTranslationList.Add(new EnglishTranslation(item));
+            }
+
+        }
+
+
+    }
+
+
+
+
+
+
+    public record TranslationPart
+    {
+        public int index { get; set; }
+        public string Trasnlation { get; set; }
+        public string Example { get; set; }
+    }
+
+    public enum LineStatus
+    {
+        start,
+        regular,
+        example
+    }
+
+    public class EnglishTranslation
+    {
+
+        public List<TranslationPart> Translations = new List<TranslationPart>();
+        public string Word { get; set; }
+
+        private int index = 0;
+
+
+        public EnglishTranslation(string textPart)
+        {
+            LineStatus status = LineStatus.start;
+            StringReader textReader = new StringReader(textPart);
+            while (textReader.Peek() != -1)
+            {
+
+                string text = textReader.ReadLine();
+                if (status == LineStatus.start)
+                {
+                    this.Word = text;
+                    status = LineStatus.regular;
+                    continue;
+                }
+
+                switch (text)
+                {
+
+                    case var st when (st.StartsWith("example:")):
+                        Translations[^1].Example = text;
+                        status = LineStatus.example;
+                        break;
+                    case var st when (!st.StartsWith("example:")):
+                        Translations.Add(new TranslationPart { index = this.index++, Trasnlation = text });
+                        status = LineStatus.regular;
+                        break;
+
+                }
+            }
+        }
+
+    }
+
+
+
+    public class FileContent
+    {
+
+        public CollinsTranslation translation;
         public FileContent()
         {
-            DirectoryInfo dir1 = new DirectoryInfo("StaticFiles");
-            file = dir1.GetFiles().FirstOrDefault(x => x.Name == "SAT Vocabulary.txt");
-            StreamReader reader = new StreamReader(file.OpenRead());
-            this.FileText = reader.ReadToEnd();
+            translation = new CollinsTranslation();
+            Task.Run(() => this.SaveEntryRecord<CollinsEntry>()).Wait();
 
-            var T = Task.Run(async () => await CreateTagList());
 
         }
 
 
-        private async Task CreateTagList()
+
+
+
+
+        private async Task SaveEntryRecord<T>()
         {
 
-            var config = Configuration.Default;
-            var context = BrowsingContext.New(config);
-            var document = await context.OpenAsync(req => req.Content(this.FileText));
-            var documentElement = document.DocumentElement;
-            TrTags = documentElement.QuerySelectorAll("tr");
-            var tr = TrTags.FirstOrDefault().GetType();
-            TrTags.ToList().ForEach(x => CreateTranslationRecord(x));
+            string path = @"C:\Users\Owner\Desktop\Collins list.txt";
+            StreamWriter writer = new StreamWriter(path);
+            writer.AutoFlush = true;
+            Type type = typeof(T);
 
-        }
+            foreach (var translate in translation.TagList)
+                foreach (var prop in type.GetProperties())
+                {
+                    await writer.WriteLineAsync($"{prop.Name}:  {prop.GetValue(translate)}");
+
+                }
 
 
-        private void CreateTranslationRecord(IElement element)
-        {
-            var tds = element.Children;
-            var translate = new TransLate
-            {
-                Word = tds[0].TextContent,
-                Translation = tds[1].TextContent,
-                Example = tds[2].TextContent
-            };
-            this.TranslateList.Add(translate);
 
         }
 

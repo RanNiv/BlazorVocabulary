@@ -23,6 +23,15 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "System.Net.Http.Json/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/System.Net.Http.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/System.Net.Http.Json.dll": {}
+        }
+      },
       "System.Runtime.CompilerServices.Unsafe/4.5.0": {
         "type": "package",
         "compile": {
@@ -88,6 +97,28 @@
         "microsoft.netcore.platforms.2.0.0.nupkg.sha512",
         "microsoft.netcore.platforms.nuspec",
         "runtime.json",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Net.Http.Json/5.0.0": {
+      "sha512": "3CPSQpCzEmI9o+1G79TnPCjF40omCdnoXj2Rg76BDwGj5+LZnFPjV+t35eedlvl+uthmholk/XXxXTYgJWSexw==",
+      "type": "package",
+      "path": "system.net.http.json/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Net.Http.Json.dll",
+        "lib/net461/System.Net.Http.Json.xml",
+        "lib/net5.0/System.Net.Http.Json.dll",
+        "lib/net5.0/System.Net.Http.Json.xml",
+        "lib/netstandard2.0/System.Net.Http.Json.dll",
+        "lib/netstandard2.0/System.Net.Http.Json.xml",
+        "system.net.http.json.5.0.0.nupkg.sha512",
+        "system.net.http.json.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
@@ -170,7 +201,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "AngleSharp >= 1.0.0-alpha-844"
+      "AngleSharp >= 1.0.0-alpha-844",
+      "System.Net.Http.Json >= 5.0.0"
     ]
   },
   "packageFolders": {
@@ -219,6 +251,10 @@
           "AngleSharp": {
             "target": "Package",
             "version": "[1.0.0-alpha-844, )"
+          },
+          "System.Net.Http.Json": {
+            "target": "Package",
+            "version": "[5.0.0, )"
           }
         },
         "imports": [
@@ -239,7 +275,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

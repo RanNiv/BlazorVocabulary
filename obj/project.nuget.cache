@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uUhHQW4gMZnrQnSmLmVjJjaBO7pe8ywZke+kvp2eh8mHJooZ3xHoL22Sk2u8Ny9WTm0uvaeBw8N6LijazW1WPQ==",
+  "dgSpecHash": "CTJH/5CmqujRsVIdga6F8QImgmv45/KuOyoCoIGkL4uNrASPRYCtotvVx9KXXdA5tGIwKg+Ss3f4a2H3OspKXA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Owner\\Documents\\projects\\Blazorvocabulary\\Blazorvocabulary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\anglesharp\\1.0.0-alpha-844\\anglesharp.1.0.0-alpha-844.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
   ],

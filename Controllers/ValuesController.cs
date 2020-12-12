@@ -1,3 +1,4 @@
+using Collins;
 using Data;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
@@ -20,6 +21,7 @@ public ValuesController(FileContent data)
     [HttpGet]
     public IEnumerable<string> Get ()
     {
+     LoadTextFile load=new LoadTextFile();
         return new string[] {"Test1","Test2"};
 
     }
@@ -35,17 +37,32 @@ public ValuesController(FileContent data)
 
 
     [HttpGet]
-    public string GetFileContent ()
+    public object GetFileData ()
     {
-      
-      //test
-      //test2
-    return _data.FileText;
+  
+LoadDescriptions descriptions=new LoadDescriptions();
+
+    return  new {Data= descriptions.GetData()};
 
   
 
 
     }
+
+
+        [HttpGet]
+    public IEnumerable<Column> GetColumns ()
+    {
+  
+LoadDescriptions descriptions=new LoadDescriptions();
+
+    return  descriptions.GetColumns();
+
+  
+
+
+    }
+
 
 
 
