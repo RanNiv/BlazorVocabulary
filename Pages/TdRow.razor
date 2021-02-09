@@ -1,0 +1,81 @@
+@using Collins
+
+
+<tr>
+
+    @if (@Translation.Frequent == BookFrequent.High)
+    {
+        <td>
+            <div class="d-inline p-2 bg-dark text-white"> @Translation.Entry</div>
+        </td>
+    }
+
+    else if (@Translation.IsInBookVocabulary)
+    {
+
+        <td>
+            <div class="d-inline p-2 text-success"> @Translation.Entry</div>
+        </td>
+    }
+
+
+    else
+    {
+
+        <td>
+            <div> @Translation.Entry</div>
+        </td>
+    }
+
+
+
+
+    @if (@Translation.Frequent == BookFrequent.High)
+    {
+        <td>
+            <div class="@htmlclass"> @Translation.Description</div>
+        </td>
+    }
+
+    else if (@Translation.IsInBookVocabulary)
+    {
+
+        <td>
+            <div class="d-inline p-2  text-success"> @Translation.Description</div>
+        </td>
+    }
+
+    else
+    {
+
+        <td>
+            <div> @Translation.Description</div>
+        </td>
+    }
+
+
+    <td>@Translation.EnglishDescription</td>
+
+
+</tr>
+
+@code {
+    private TextEntry tr;
+
+    private string htmlclass="d-inline p-2 bg-primary text-white";
+
+    [Parameter]
+    public TextEntry Translation
+    {
+        get { return tr; }
+        set { tr = value;
+        
+        if(tr.Entry=="crumple")
+        htmlclass="d-inline p-2 bg-info text-white";
+        
+        
+         }
+    }
+
+
+}

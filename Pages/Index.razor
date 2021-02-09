@@ -2,29 +2,105 @@
 @using Collins
 @inject DataService data;
 @inject IJSRuntime JS
+@using Blazorvocabulary.Data
+@inject LoadTranslateCollection loadDescriptions
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
 
-<table id="table">
-  <thead id="thead">
-<tr id="tr1"></tr>
-<tr id="tr2"></tr>
-<tr id="tr3"></tr>
-  </thead>
+
+
+<div class="container">
+
   
-</table>
+
+  <div class="row" style="margin-bottom:5px;">
+    <label for="inputsearch" class="col-sm-1 col-form-label" style="font-weight: 600;">Search</label>
+    <div class="col-sm-8">
+      <input type="text" @bind="@SearchTerm" @bind:event="oninput" class="form-control" id="inputsearch" @onkeypress="changelist">
+    </div>
+  </div>
+<br>
+  <div class="row">
+    @SearchTerm
+  </div>
+<br>
+
+  <button class="btn btn-info" @onclick="filterresults">Filter Results</button>
+
+  <p class="user-select-all">This paragraph will be entirely selected when clicked by the user.</p>
+  @* <div class="d-inline p-2 bg-primary text-white">d-inline</div>
+    <div class="d-inline p-2 bg-dark text-white">d-inline</div> *@
 
 
+<a href="C:\Users\Owner\Documents\MSN Israel  מבזקי חדשות בישראל ובעולם, ספורט, כלכלה, סלבס וסרטונים שווים.mht">בדיקה</a>
+
+
+  <table class="table table-hover table-inverse table-responsive">
+    <thead>
+      <tr>
+        <th>Entry</th>
+        <th>Description</th>
+        <th>EnglishTranslate</th>
+      </tr>
+    </thead>
+    <tbody>
+      <Virtualize Items="@CurrentVocbularyList">
+        <TdRow Translation=@context></TdRow>
+      </Virtualize>
+    </tbody>
+  </table>
+</div>
 
 
 @code {
+  
+  private void filterresults(MouseEventArgs e)
+  {
+    CurrentVocbularyList.RemoveAll(x => x.Frequent == BookFrequent.Low);
+
+  }
 
 
-protected override async Task OnAfterRenderAsync(bool firstRender)
+  private void changelist(KeyboardEventArgs e)
+  {
+    //CurrentVocbularyList=VocbularyList.Where(x=>x.Entry.StartsWith(e.Key.ToString())).ToList();
+ // CurrentVocbularyList=VocbularyList.Where(x=>x.Entry.StartsWith(SearchTerm)).ToList();
+  }
+
+
+  List<TextEntry> VocbularyList = new List<TextEntry>();
+List<TextEntry> CurrentVocbularyList = new List<TextEntry>();
+
+//public string SearchTerm { get; set; }
+
+private string searchTerm;
+public string SearchTerm
 {
-    if (firstRender)
-    {
-      await JS.InvokeVoidAsync("setDataTable");
-    }
+    get { return searchTerm; }
+    set { searchTerm = value;
+
+
+    CurrentVocbularyList=VocbularyList.Where(x=>x.Entry.StartsWith(searchTerm)).ToList();
+     }
 }
 
-}
 
+  protected override void OnInitialized()
+  {
+    VocbularyList = new List<TextEntry>(loadDescriptions.EntryList.Where(x => x is TextEntry).Select(x => x as
+          TextEntry).OrderBy(x => x.Entry));
+   CurrentVocbularyList=VocbularyList;
+  }
+
+
+  private void updatelist()
+  {
+    loadDescriptions.EntryList.FirstOrDefault(x => x.Entry == "distill").Description = "לזקק";
+    StateHasChanged();
+
+  }
+
+
+    
+
+}

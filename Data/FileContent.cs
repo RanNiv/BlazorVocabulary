@@ -6,9 +6,10 @@ using AngleSharp;
 using AngleSharp.Dom;
 using Collins;
 using System;
+using System.Text.Json;
+using System.Text;
 
-
-namespace Data
+namespace Blazorvocabulary.Data
 {
 
     public record TransLate
@@ -21,10 +22,134 @@ namespace Data
     }
 
 
-    
 
 
-    
+    delegate void GetList();
+
+    public class LoadTranslateCollection
+    {
+        private string filePath = @"C:\Users\Owner\Desktop\";
+        LoadingTechnique technique;
+        public List<ITranslation> EntryList { get; set; } = new List<ITranslation>();
+        public List<string>BookList=new List<string>();
+
+        GetList getList;
+
+       
+
+
+        public LoadTranslateCollection(string path, LoadingTechnique technique,IEnumerable<string>list)
+        {
+            this.filePath = this.filePath += path + ".txt";
+            this.technique = technique;
+            BookList=new List<string>(list);
+            switch (technique)
+            {
+                case LoadingTechnique.readeyList:
+                    getList += GetVocabularyList;
+                    break;
+
+            }
+
+            getList += AddMorfixEntries;
+            getList.Invoke();
+        }
+
+
+
+
+        private void GetVocabularyList()
+        {
+            FileInfo file = new FileInfo(this.filePath);
+            using StreamReader reader = new StreamReader(file.OpenRead());
+            while (reader.Peek() != -1)
+            {
+                TextEntry entry1 = new TextEntry();
+                string text = reader.ReadLine();
+                string[] textArray = text.Split('-');
+                if (text.Contains('-'))
+                {
+
+                    if (!EntryList.Exists(x => x.Entry == textArray[0]) && textArray.Length > 2)
+                        EntryList.Add(new TextEntry { Entry = textArray[0], Description = textArray[1], EnglishDescription = textArray[2] });
+                    if (!EntryList.Exists(x => x.Entry == textArray[0] && textArray.Length > 1))
+                        EntryList.Add(new TextEntry { Entry = textArray[0], Description = textArray[1] });
+                }
+                else if (!EntryList.Exists(x => x.Entry == text))
+                {
+ 
+                    EntryList.Add(new TextEntry { Entry = text });
+                }
+
+
+
+
+                var entry = EntryList[^1] as TextEntry;
+
+
+                if (entry.Description == null)
+                    entry.Description = entry switch
+                    {
+                        { Entry: "concise" } => "תמציתי",
+                        { Entry: "impede" } => "לעכב",
+                        { Entry: "groping" } => "גשש, משש",
+                        { Entry: "delve" } => "להתעמק",
+                        { Entry: "superseded" } => "מוחלף",
+                        { Entry: "withstand" } or { Entry: "withstood" } => "עָמַד ב_, עמד בפני, הִתְמוֹדֵד",
+                        { Entry: "jumble" } => "עִרבּוּביָה",
+                        _ => null
+                    };
+
+
+                List<string> BookWordList = new List<string>();
+
+                List<string> HighFrequentList = new List<string>();
+
+                BookList.ForEach(x=>HighFrequentList.Add(x));
+                
+              
+          
+
+                if (HighFrequentList.Exists(x => x == entry.Entry))
+                    entry.Frequent = BookFrequent.High;
+
+            }
+        }
+
+
+        private void AddMorfixEntries()
+        {
+            MorfixTranslation morfixTranslation = new MorfixTranslation();
+
+            Func<ITranslation, bool> predicateTranslate = p =>
+               {
+
+                   return EntryList.Exists(x => x.Entry == p.Entry && x.Description == null);
+
+               };
+
+
+            foreach (var item in morfixTranslation.EntryList)
+            {
+                if (predicateTranslate(item))
+                    EntryList.FirstOrDefault(x => x.Entry == item.Entry).Description = item.Description;
+                else EntryList.Add(item);
+
+            }
+
+        }
+
+
+
+
+    }
+
+
+
+
+
+
+
 
     public class LoadTextFile
     {
@@ -128,10 +253,6 @@ namespace Data
         }
 
 
-
-
-
-
         private async Task SaveEntryRecord<T>()
         {
 
@@ -146,10 +267,10 @@ namespace Data
                     await writer.WriteLineAsync($"{prop.Name}:  {prop.GetValue(translate)}");
 
                 }
-
-
-
         }
+
+
+
 
 
 

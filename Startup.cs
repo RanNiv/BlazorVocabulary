@@ -11,8 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting; 
 using Microsoft.Extensions.FileProviders;
 using System.IO;
-using Data;
 using System.Net.Http;
+using Blazorvocabulary.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace Blazorvocabulary
 {
@@ -21,6 +22,7 @@ namespace Blazorvocabulary
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+
         }
 
         public IConfiguration Configuration { get; }
@@ -32,6 +34,13 @@ namespace Blazorvocabulary
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton(new FileContent());
+            var list=Configuration.GetSection("HighImportant").Get<string[]>();
+            services.AddSingleton(new LoadTranslateCollection("vocabulary", 0,list));
+            services.AddDbContext<TranslateDbContext>(options => options.UseSqlServer("name=ConnectionStrings:TranslateDatabase"));
+
+
+
+            
 /*             services.AddTransient<IRestDataService, DataService>();
             services.AddHttpClient<DataService>(); */
         services.AddHttpClient<DataService>()
@@ -44,7 +53,6 @@ namespace Blazorvocabulary
     }); 
 
 
-
 /*     services.AddHttpClient<DataService>( c =>{
 }).ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler{ServerCertificateCustomValidationCallback = (m, c, ch, e) => true}); */
           }
@@ -52,6 +60,12 @@ namespace Blazorvocabulary
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+
+
+
+  
+
+            
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

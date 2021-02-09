@@ -5,7 +5,7 @@ using AngleSharp.Dom;
 
 public abstract class VocabularyScript
     {
-        protected abstract string Path { get; set; }
+        protected abstract string Path { get; }
        
         protected IDocument document;
         

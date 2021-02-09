@@ -78,6 +78,92 @@
         }
       },
       {
+        "HashCode": -2075714919,
+        "Kind": "Components.Component",
+        "Name": "Blazorvocabulary.App",
+        "AssemblyName": "Blazorvocabulary",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorvocabulary.App"
+        }
+      },
+      {
+        "HashCode": 1519630061,
+        "Kind": "Components.Component",
+        "Name": "Blazorvocabulary.App",
+        "AssemblyName": "Blazorvocabulary",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazorvocabulary.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorvocabulary.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -281943826,
+        "Kind": "Components.Component",
+        "Name": "Blazorvocabulary.Shared.SurveyPrompt",
+        "AssemblyName": "Blazorvocabulary",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorvocabulary.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1167326806,
+        "Kind": "Components.Component",
+        "Name": "Blazorvocabulary.Shared.SurveyPrompt",
+        "AssemblyName": "Blazorvocabulary",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazorvocabulary.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorvocabulary.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 614559611,
         "Kind": "Components.Component",
         "Name": "Blazorvocabulary.Shared.MainLayout",
@@ -174,59 +260,6 @@
         }
       },
       {
-        "HashCode": -281943826,
-        "Kind": "Components.Component",
-        "Name": "Blazorvocabulary.Shared.SurveyPrompt",
-        "AssemblyName": "Blazorvocabulary",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorvocabulary.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1167326806,
-        "Kind": "Components.Component",
-        "Name": "Blazorvocabulary.Shared.SurveyPrompt",
-        "AssemblyName": "Blazorvocabulary",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazorvocabulary.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorvocabulary.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -809068107,
         "Kind": "Components.Component",
         "Name": "Blazorvocabulary.Shared.NavMenu",
@@ -256,39 +289,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Blazorvocabulary.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2075714919,
-        "Kind": "Components.Component",
-        "Name": "Blazorvocabulary.App",
-        "AssemblyName": "Blazorvocabulary",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorvocabulary.App"
-        }
-      },
-      {
-        "HashCode": 1519630061,
-        "Kind": "Components.Component",
-        "Name": "Blazorvocabulary.App",
-        "AssemblyName": "Blazorvocabulary",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazorvocabulary.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorvocabulary.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15912,6 +15912,11 @@
       "FilePath": "c:\\Users\\Owner\\Documents\\projects\\Blazorvocabulary\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Owner\\Documents\\projects\\Blazorvocabulary\\Pages\\TdRow.razor",
+      "TargetPath": "Pages\\TdRow.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "c:\\Users\\Owner\\Documents\\projects\\Blazorvocabulary\\App.razor",

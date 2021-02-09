@@ -89,6 +89,20 @@ using Collins;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "C:\Users\Owner\Documents\projects\Blazorvocabulary\Pages\Index.razor"
+using Blazorvocabulary.Data;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 7 "C:\Users\Owner\Documents\projects\Blazorvocabulary\Pages\Index.razor"
+using Microsoft.Extensions.Configuration;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -98,22 +112,64 @@ using Collins;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 18 "C:\Users\Owner\Documents\projects\Blazorvocabulary\Pages\Index.razor"
+#line 55 "C:\Users\Owner\Documents\projects\Blazorvocabulary\Pages\Index.razor"
        
+  
+  private void filterresults(MouseEventArgs e)
+  {
+    CurrentVocbularyList.RemoveAll(x => x.Frequent == BookFrequent.Low);
+
+  }
 
 
-protected override async Task OnAfterRenderAsync(bool firstRender)
+  private void changelist(KeyboardEventArgs e)
+  {
+    //CurrentVocbularyList=VocbularyList.Where(x=>x.Entry.StartsWith(e.Key.ToString())).ToList();
+ // CurrentVocbularyList=VocbularyList.Where(x=>x.Entry.StartsWith(SearchTerm)).ToList();
+  }
+
+
+  List<TextEntry> VocbularyList = new List<TextEntry>();
+List<TextEntry> CurrentVocbularyList = new List<TextEntry>();
+
+//public string SearchTerm { get; set; }
+
+private string searchTerm;
+public string SearchTerm
 {
-    if (firstRender)
-    {
-      await JS.InvokeVoidAsync("setDataTable");
-    }
+    get { return searchTerm; }
+    set { searchTerm = value;
+
+
+    CurrentVocbularyList=VocbularyList.Where(x=>x.Entry.StartsWith(searchTerm)).ToList();
+     }
 }
+
+
+  protected override void OnInitialized()
+  {
+    VocbularyList = new List<TextEntry>(loadDescriptions.EntryList.Where(x => x is TextEntry).Select(x => x as
+          TextEntry).OrderBy(x => x.Entry));
+   CurrentVocbularyList=VocbularyList;
+  }
+
+
+  private void updatelist()
+  {
+    loadDescriptions.EntryList.FirstOrDefault(x => x.Entry == "distill").Description = "לזקק";
+    StateHasChanged();
+
+  }
+
+
+    
 
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IConfiguration Configuration { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private LoadTranslateCollection loadDescriptions { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime JS { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private DataService data { get; set; }
     }

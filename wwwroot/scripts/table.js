@@ -49,6 +49,15 @@ $("#tr3").append(`<th>הוספת הערה</th/>`);
         
     });
 
+    var filterdt= $('#table').DataTable().columns(1).data().filter(function (value,index) {
+        console.log(value);
+return value=="hub"?true:false;
+
+    });
+
+
+   
+
 
 
 });
